@@ -371,74 +371,50 @@
   <channel id="Paramount+ AU 01">
     <display-name>Paramount+ AU 01</display-name>
     <display-name>Paramount+ AU 01: UFC Fight Night in English @ 22 Nov 02:00 AM Sydney</display-name>
-    <display-name>Paramount+ AU 01: Western Sydney Wanderers vs. Adelaide United @ 20 Nov 07:40 PM Sydney</display-name>
   </channel>
   <channel id="Paramount+ AU 02">
     <display-name>Paramount+ AU 02</display-name>
-    <display-name>Paramount+ AU 02: UFC Doha Ceremonial Weigh-In in English @ 21 Nov 02:00 AM Sydney</display-name>
     <display-name>Paramount+ AU 02: UFC Fight Night: Multiview @ 22 Nov 05:00 AM Sydney</display-name>
   </channel>
   <channel id="Paramount+ AU 03">
     <display-name>Paramount+ AU 03</display-name>
-    <display-name>Paramount+ AU 03: Auckland FC vs. Melbourne Victory @ 21 Nov 03:00 PM Sydney</display-name>
     <display-name>Paramount+ AU 03: Wellington Phoenix vs. Macarthur FC @ 22 Nov 01:00 PM Sydney</display-name>
   </channel>
   <channel id="Paramount+ AU 04">
     <display-name>Paramount+ AU 04</display-name>
-    <display-name>Paramount+ AU 04: Brisbane Roar vs. Melbourne City @ 21 Nov 04:50 PM Sydney</display-name>
     <display-name>Paramount+ AU 04: Melbourne Victory vs. Perth Glory @ 22 Nov 03:00 PM Sydney</display-name>
-  </channel>
-  <channel id="Paramount+ AU 05">
-    <display-name>Paramount+ AU 05</display-name>
-    <display-name>Paramount+ AU 05: Central Coast Mariners vs. Perth Glory @ 21 Nov 05:00 PM Sydney</display-name>
-  </channel>
-  <channel id="Paramount+ AU 06">
-    <display-name>Paramount+ AU 06</display-name>
-    <display-name>Paramount+ AU 06: Sydney FC vs. Canberra United @ 21 Nov 05:00 PM Sydney</display-name>
-  </channel>
-  <channel id="Paramount+ AU 07">
-    <display-name>Paramount+ AU 07</display-name>
-    <display-name>Paramount+ AU 07: Brisbane Roar vs. Sydney FC @ 21 Nov 07:45 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 01">
     <display-name>Stan AU 01</display-name>
     <display-name>Stan AU 01: Manchester City v Fulham - Premier League Matchweek 11 2026/2027 @ 21 Nov 10:30 PM Sydney</display-name>
-    <display-name>Stan AU 01: Romania v Canada - Nations Cup Round 6 2026 @ 21 Nov 03:20 AM Sydney</display-name>
   </channel>
   <channel id="Stan AU 02">
     <display-name>Stan AU 02</display-name>
     <display-name>Stan AU 02: Liverpool v Chelsea - WSL 2026/27 @ 21 Nov 11:35 PM Sydney</display-name>
-    <display-name>Stan AU 02: Qualification: F4 World Cup - Macau Grand Prix 2026 @ 21 Nov 02:30 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 03">
     <display-name>Stan AU 03</display-name>
     <display-name>Stan AU 03: England v New Zealand - Nations Championship Round 6 2026 @ 22 Nov 12:15 AM Sydney</display-name>
-    <display-name>Stan AU 03: Jeonbuk v Seoul - K League 2026 @ 21 Nov 03:55 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 04">
     <display-name>Stan AU 04</display-name>
     <display-name>Stan AU 04: Georgia v USA - Nations Cup Round 6 2026 @ 22 Nov 12:50 AM Sydney</display-name>
-    <display-name>Stan AU 04: Sanfrecce Hiroshima v Yokohama F. Marinos - J.League 2026 @ 21 Nov 03:55 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 05">
     <display-name>Stan AU 05</display-name>
-    <display-name>Stan AU 05: Kyoto Sanga v Urawa Red Diamonds - J.League 2026 @ 21 Nov 03:55 PM Sydney</display-name>
     <display-name>Stan AU 05: Scotland v Japan - Nations Championship Round 6 2026 @ 22 Nov 01:00 AM Sydney</display-name>
   </channel>
   <channel id="Stan AU 06">
     <display-name>Stan AU 06</display-name>
     <display-name>Stan AU 06: Chelsea v Leeds United - Premier League Matchweek 11 2026/2027 @ 22 Nov 01:50 AM Sydney</display-name>
-    <display-name>Stan AU 06: Qualification: GT &amp; FR World Cup - Macau Grand Prix 2026 @ 21 Nov 05:20 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 07">
     <display-name>Stan AU 07</display-name>
     <display-name>Stan AU 07: Bournemouth v Nottingham Forest - Premier League Matchweek 11 2026/2027 @ 22 Nov 01:50 AM Sydney</display-name>
-    <display-name>Stan AU 07: Incheon v Ulsan - K League 2026 @ 21 Nov 06:25 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 08">
     <display-name>Stan AU 08</display-name>
     <display-name>Stan AU 08: Coventry City v Crystal Palace - Premier League Matchweek 11 2026/2027 @ 22 Nov 01:50 AM Sydney</display-name>
-    <display-name>Stan AU 08: Hong Kong China v Tonga - Nations Cup Round 6 2026 @ 21 Nov 07:50 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 09">
     <display-name>Stan AU 09</display-name>
@@ -882,15 +858,6 @@
     <title lang="en">Signing off</title>
   </programme>
   <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Paramount+ AU 04">
-    <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Paramount+ AU 05">
-    <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Paramount+ AU 06">
-    <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Paramount+ AU 07">
     <title lang="en">Signing off</title>
   </programme>
   <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Stan AU 01">
