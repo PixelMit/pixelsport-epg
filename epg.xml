@@ -308,34 +308,41 @@
     <display-name>NBA 01</display-name>
     <display-name>NBA 01: Bucks vs. 76ers @ 21 Nov 12:58 PM ET</display-name>
     <display-name>NBA 01: Hornets vs. Hawks @ 20 Nov 06:58 PM ET</display-name>
+    <display-name>NBA 01: Pistons vs. Hawks @ 22 Nov 03:28 PM ET</display-name>
   </channel>
   <channel id="NBA 02">
     <display-name>NBA 02</display-name>
     <display-name>NBA 02: Raptors vs. Pistons @ 20 Nov 06:58 PM ET</display-name>
+    <display-name>NBA 02: Thunder vs. Heat @ 22 Nov 05:58 PM ET</display-name>
     <display-name>NBA 02: Trail Blazers vs. Knicks @ 21 Nov 07:28 PM ET</display-name>
   </channel>
   <channel id="NBA 03">
     <display-name>NBA 03</display-name>
     <display-name>NBA 03: Grizzlies vs. Timberwolves @ 21 Nov 07:58 PM ET</display-name>
     <display-name>NBA 03: Magic vs. Nets @ 20 Nov 07:28 PM ET</display-name>
+    <display-name>NBA 03: Nuggets vs. Bulls @ 22 Nov 06:58 PM ET</display-name>
   </channel>
   <channel id="NBA 04">
     <display-name>NBA 04</display-name>
     <display-name>NBA 04: Clippers vs. Mavericks @ 21 Nov 07:58 PM ET</display-name>
+    <display-name>NBA 04: Magic vs. Wizards @ 22 Nov 06:58 PM ET</display-name>
     <display-name>NBA 04: Pacers vs. Cavaliers @ 20 Nov 07:28 PM ET</display-name>
   </channel>
   <channel id="NBA 05">
     <display-name>NBA 05</display-name>
+    <display-name>NBA 05: Mavericks vs. Jazz @ 22 Nov 06:58 PM ET</display-name>
     <display-name>NBA 05: Pelicans vs. Spurs @ 21 Nov 07:58 PM ET</display-name>
     <display-name>NBA 05: Wizards vs. Bulls @ 20 Nov 07:58 PM ET</display-name>
   </channel>
   <channel id="NBA 06">
     <display-name>NBA 06</display-name>
     <display-name>NBA 06: Celtics vs. Kings @ 21 Nov 09:58 PM ET</display-name>
+    <display-name>NBA 06: Pacers vs. Knicks @ 22 Nov 07:58 PM ET</display-name>
     <display-name>NBA 06: Pelicans vs. Thunder @ 20 Nov 07:58 PM ET</display-name>
   </channel>
   <channel id="NBA 07">
     <display-name>NBA 07</display-name>
+    <display-name>NBA 07: Celtics vs. Warriors @ 22 Nov 08:28 PM ET</display-name>
     <display-name>NBA 07: Suns vs. Jazz @ 20 Nov 09:28 PM ET</display-name>
   </channel>
   <channel id="NBA 08">
@@ -845,25 +852,225 @@
   <programme start="20261123030000 +0000" stop="20261123120000 +0000" channel="LIVE EVENT 28">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261123120000 +0000" channel="NBA 01">
+  <programme start="20261122120000 +0000" stop="20261122122800 +0000" channel="NBA 01">
+    <title lang="en">Live in 9 hours</title>
+    <desc lang="en">Pistons vs. Hawks starts Mon 23 Nov 7:28 AM</desc>
+  </programme>
+  <programme start="20261122122800 +0000" stop="20261122142800 +0000" channel="NBA 01">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Pistons vs. Hawks starts Mon 23 Nov 7:28 AM</desc>
+  </programme>
+  <programme start="20261122142800 +0000" stop="20261122162800 +0000" channel="NBA 01">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Pistons vs. Hawks starts Mon 23 Nov 7:28 AM</desc>
+  </programme>
+  <programme start="20261122162800 +0000" stop="20261122182800 +0000" channel="NBA 01">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Pistons vs. Hawks starts Mon 23 Nov 7:28 AM</desc>
+  </programme>
+  <programme start="20261122182800 +0000" stop="20261122202800 +0000" channel="NBA 01">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Pistons vs. Hawks starts Mon 23 Nov 7:28 AM</desc>
+  </programme>
+  <programme start="20261122202800 +0000" stop="20261122225800 +0000" channel="NBA 01">
+    <title lang="en">[LIVE] Pistons vs. Hawks</title>
+    <desc lang="en">Mon 23 Nov 7:28 AM</desc>
+  </programme>
+  <programme start="20261122225800 +0000" stop="20261123120000 +0000" channel="NBA 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261123120000 +0000" channel="NBA 02">
+  <programme start="20261122120000 +0000" stop="20261122125800 +0000" channel="NBA 02">
+    <title lang="en">Live in 11 hours</title>
+    <desc lang="en">Thunder vs. Heat starts Mon 23 Nov 9:58 AM</desc>
+  </programme>
+  <programme start="20261122125800 +0000" stop="20261122145800 +0000" channel="NBA 02">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Thunder vs. Heat starts Mon 23 Nov 9:58 AM</desc>
+  </programme>
+  <programme start="20261122145800 +0000" stop="20261122165800 +0000" channel="NBA 02">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Thunder vs. Heat starts Mon 23 Nov 9:58 AM</desc>
+  </programme>
+  <programme start="20261122165800 +0000" stop="20261122185800 +0000" channel="NBA 02">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Thunder vs. Heat starts Mon 23 Nov 9:58 AM</desc>
+  </programme>
+  <programme start="20261122185800 +0000" stop="20261122205800 +0000" channel="NBA 02">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Thunder vs. Heat starts Mon 23 Nov 9:58 AM</desc>
+  </programme>
+  <programme start="20261122205800 +0000" stop="20261122225800 +0000" channel="NBA 02">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Thunder vs. Heat starts Mon 23 Nov 9:58 AM</desc>
+  </programme>
+  <programme start="20261122225800 +0000" stop="20261123012800 +0000" channel="NBA 02">
+    <title lang="en">[LIVE] Thunder vs. Heat</title>
+    <desc lang="en">Mon 23 Nov 9:58 AM</desc>
+  </programme>
+  <programme start="20261123012800 +0000" stop="20261123120000 +0000" channel="NBA 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261123120000 +0000" channel="NBA 03">
+  <programme start="20261122120000 +0000" stop="20261122135800 +0000" channel="NBA 03">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Nuggets vs. Bulls starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122135800 +0000" stop="20261122155800 +0000" channel="NBA 03">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Nuggets vs. Bulls starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122155800 +0000" stop="20261122175800 +0000" channel="NBA 03">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Nuggets vs. Bulls starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122175800 +0000" stop="20261122195800 +0000" channel="NBA 03">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Nuggets vs. Bulls starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122195800 +0000" stop="20261122215800 +0000" channel="NBA 03">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Nuggets vs. Bulls starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122215800 +0000" stop="20261122235800 +0000" channel="NBA 03">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Nuggets vs. Bulls starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122235800 +0000" stop="20261123022800 +0000" channel="NBA 03">
+    <title lang="en">[LIVE] Nuggets vs. Bulls</title>
+    <desc lang="en">Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261123022800 +0000" stop="20261123120000 +0000" channel="NBA 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261123120000 +0000" channel="NBA 04">
+  <programme start="20261122120000 +0000" stop="20261122135800 +0000" channel="NBA 04">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Magic vs. Wizards starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122135800 +0000" stop="20261122155800 +0000" channel="NBA 04">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Magic vs. Wizards starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122155800 +0000" stop="20261122175800 +0000" channel="NBA 04">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Magic vs. Wizards starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122175800 +0000" stop="20261122195800 +0000" channel="NBA 04">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Magic vs. Wizards starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122195800 +0000" stop="20261122215800 +0000" channel="NBA 04">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Magic vs. Wizards starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122215800 +0000" stop="20261122235800 +0000" channel="NBA 04">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Magic vs. Wizards starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122235800 +0000" stop="20261123022800 +0000" channel="NBA 04">
+    <title lang="en">[LIVE] Magic vs. Wizards</title>
+    <desc lang="en">Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261123022800 +0000" stop="20261123120000 +0000" channel="NBA 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261123120000 +0000" channel="NBA 05">
+  <programme start="20261122120000 +0000" stop="20261122135800 +0000" channel="NBA 05">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Mavericks vs. Jazz starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122135800 +0000" stop="20261122155800 +0000" channel="NBA 05">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Mavericks vs. Jazz starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122155800 +0000" stop="20261122175800 +0000" channel="NBA 05">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Mavericks vs. Jazz starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122175800 +0000" stop="20261122195800 +0000" channel="NBA 05">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Mavericks vs. Jazz starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122195800 +0000" stop="20261122215800 +0000" channel="NBA 05">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Mavericks vs. Jazz starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122215800 +0000" stop="20261122235800 +0000" channel="NBA 05">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Mavericks vs. Jazz starts Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261122235800 +0000" stop="20261123022800 +0000" channel="NBA 05">
+    <title lang="en">[LIVE] Mavericks vs. Jazz</title>
+    <desc lang="en">Mon 23 Nov 10:58 AM</desc>
+  </programme>
+  <programme start="20261123022800 +0000" stop="20261123120000 +0000" channel="NBA 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261123120000 +0000" channel="NBA 06">
+  <programme start="20261122120000 +0000" stop="20261122125800 +0000" channel="NBA 06">
+    <title lang="en">Live in 13 hours</title>
+    <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
+  </programme>
+  <programme start="20261122125800 +0000" stop="20261122145800 +0000" channel="NBA 06">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
+  </programme>
+  <programme start="20261122145800 +0000" stop="20261122165800 +0000" channel="NBA 06">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
+  </programme>
+  <programme start="20261122165800 +0000" stop="20261122185800 +0000" channel="NBA 06">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
+  </programme>
+  <programme start="20261122185800 +0000" stop="20261122205800 +0000" channel="NBA 06">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
+  </programme>
+  <programme start="20261122205800 +0000" stop="20261122225800 +0000" channel="NBA 06">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
+  </programme>
+  <programme start="20261122225800 +0000" stop="20261123005800 +0000" channel="NBA 06">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
+  </programme>
+  <programme start="20261123005800 +0000" stop="20261123032800 +0000" channel="NBA 06">
+    <title lang="en">[LIVE] Pacers vs. Knicks</title>
+    <desc lang="en">Mon 23 Nov 11:58 AM</desc>
+  </programme>
+  <programme start="20261123032800 +0000" stop="20261123120000 +0000" channel="NBA 06">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261123120000 +0000" channel="NBA 07">
+  <programme start="20261122120000 +0000" stop="20261122132800 +0000" channel="NBA 07">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Celtics vs. Warriors starts Mon 23 Nov 12:28 PM</desc>
+  </programme>
+  <programme start="20261122132800 +0000" stop="20261122152800 +0000" channel="NBA 07">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Celtics vs. Warriors starts Mon 23 Nov 12:28 PM</desc>
+  </programme>
+  <programme start="20261122152800 +0000" stop="20261122172800 +0000" channel="NBA 07">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Celtics vs. Warriors starts Mon 23 Nov 12:28 PM</desc>
+  </programme>
+  <programme start="20261122172800 +0000" stop="20261122192800 +0000" channel="NBA 07">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Celtics vs. Warriors starts Mon 23 Nov 12:28 PM</desc>
+  </programme>
+  <programme start="20261122192800 +0000" stop="20261122212800 +0000" channel="NBA 07">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Celtics vs. Warriors starts Mon 23 Nov 12:28 PM</desc>
+  </programme>
+  <programme start="20261122212800 +0000" stop="20261122232800 +0000" channel="NBA 07">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Celtics vs. Warriors starts Mon 23 Nov 12:28 PM</desc>
+  </programme>
+  <programme start="20261122232800 +0000" stop="20261123012800 +0000" channel="NBA 07">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Celtics vs. Warriors starts Mon 23 Nov 12:28 PM</desc>
+  </programme>
+  <programme start="20261123012800 +0000" stop="20261123035800 +0000" channel="NBA 07">
+    <title lang="en">[LIVE] Celtics vs. Warriors</title>
+    <desc lang="en">Mon 23 Nov 12:28 PM</desc>
+  </programme>
+  <programme start="20261123035800 +0000" stop="20261123120000 +0000" channel="NBA 07">
     <title lang="en">Signing off</title>
   </programme>
   <programme start="20261122120000 +0000" stop="20261123120000 +0000" channel="NBA 08">
