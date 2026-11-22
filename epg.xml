@@ -164,27 +164,33 @@
   </channel>
   <channel id="Kayo AU 01">
     <display-name>Kayo AU 01</display-name>
+    <display-name>Kayo AU 01: Motorsport FIM Moto2 World Championship Moto2 Portugal Race @ Nov 22 9:00PM AEST</display-name>
     <display-name>Kayo AU 01: Rugby League Nines Premier League 9PL: Sydney Day 1 @ Nov 21 6:50AM AEST</display-name>
   </channel>
   <channel id="Kayo AU 02">
     <display-name>Kayo AU 02</display-name>
     <display-name>Kayo AU 02: Cricket ICC World Test Championship New Zealand v India First Test Day 3 @ Nov 21 7:30AM AEST</display-name>
+    <display-name>Kayo AU 02: Sailing Sail GP Dubai Day 2 @ Nov 22 9:00PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 03">
     <display-name>Kayo AU 03</display-name>
     <display-name>Kayo AU 03: American Football NCAA Football Duke v Clemson @ Nov 21 10:00AM AEST</display-name>
+    <display-name>Kayo AU 03: Motorsport MotoGP MotoGP Portugal Race @ Nov 22 10:15PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 04">
     <display-name>Kayo AU 04</display-name>
     <display-name>Kayo AU 04: Cricket WBBL Hurricanes v Thunder @ Nov 21 10:57AM AEST</display-name>
+    <display-name>Kayo AU 04: Equestrian Global Champions Tour Verona Super Cup Final @ Nov 22 10:50PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 05">
     <display-name>Kayo AU 05</display-name>
     <display-name>Kayo AU 05: Basketball NCAA Men's Basketball Georgia Tech v Georgia @ Nov 21 11:00AM AEST</display-name>
+    <display-name>Kayo AU 05: Darts Grand Slam of Darts Grand Slam @ Nov 22 11:00PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 06">
     <display-name>Kayo AU 06</display-name>
     <display-name>Kayo AU 06: Australian Rules AFL Women North Melbourne v Sydney @ Nov 21 11:30AM AEST</display-name>
+    <display-name>Kayo AU 06: Football Eredivisie Ajax v Den Haag @ Nov 22 11:25PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 07">
     <display-name>Kayo AU 07</display-name>
@@ -618,22 +624,66 @@
   <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="EPLⒷⓟ 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Kayo AU 01">
+  <programme start="20261122110000 +0000" stop="20261122140000 +0000" channel="Kayo AU 01">
+    <title lang="en">[LIVE] Motorsport FIM Moto2 World Championship Moto2 Portugal Race</title>
+    <desc lang="en">Sun 22 Nov 10:00 PM</desc>
+  </programme>
+  <programme start="20261122140000 +0000" stop="20261123110000 +0000" channel="Kayo AU 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Kayo AU 02">
+  <programme start="20261122110000 +0000" stop="20261122140000 +0000" channel="Kayo AU 02">
+    <title lang="en">[LIVE] Sailing Sail GP Dubai Day 2</title>
+    <desc lang="en">Sun 22 Nov 10:00 PM</desc>
+  </programme>
+  <programme start="20261122140000 +0000" stop="20261123110000 +0000" channel="Kayo AU 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Kayo AU 03">
+  <programme start="20261122110000 +0000" stop="20261122121500 +0000" channel="Kayo AU 03">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Motorsport MotoGP MotoGP Portugal Race starts Sun 22 Nov 11:15 PM</desc>
+  </programme>
+  <programme start="20261122121500 +0000" stop="20261122151500 +0000" channel="Kayo AU 03">
+    <title lang="en">[LIVE] Motorsport MotoGP MotoGP Portugal Race</title>
+    <desc lang="en">Sun 22 Nov 11:15 PM</desc>
+  </programme>
+  <programme start="20261122151500 +0000" stop="20261123110000 +0000" channel="Kayo AU 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Kayo AU 04">
+  <programme start="20261122110000 +0000" stop="20261122125000 +0000" channel="Kayo AU 04">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Equestrian Global Champions Tour Verona Super Cup Final starts Sun 22 Nov 11:50 PM</desc>
+  </programme>
+  <programme start="20261122125000 +0000" stop="20261122155000 +0000" channel="Kayo AU 04">
+    <title lang="en">[LIVE] Equestrian Global Champions Tour Verona Super Cup Final</title>
+    <desc lang="en">Sun 22 Nov 11:50 PM</desc>
+  </programme>
+  <programme start="20261122155000 +0000" stop="20261123110000 +0000" channel="Kayo AU 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Kayo AU 05">
+  <programme start="20261122110000 +0000" stop="20261122130000 +0000" channel="Kayo AU 05">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Darts Grand Slam of Darts Grand Slam starts Mon 23 Nov 12:00 AM</desc>
+  </programme>
+  <programme start="20261122130000 +0000" stop="20261122160000 +0000" channel="Kayo AU 05">
+    <title lang="en">[LIVE] Darts Grand Slam of Darts Grand Slam</title>
+    <desc lang="en">Mon 23 Nov 12:00 AM</desc>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261123110000 +0000" channel="Kayo AU 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Kayo AU 06">
+  <programme start="20261122110000 +0000" stop="20261122112500 +0000" channel="Kayo AU 06">
+    <title lang="en">Live in 3 hours</title>
+    <desc lang="en">Football Eredivisie Ajax v Den Haag starts Mon 23 Nov 12:25 AM</desc>
+  </programme>
+  <programme start="20261122112500 +0000" stop="20261122132500 +0000" channel="Kayo AU 06">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Football Eredivisie Ajax v Den Haag starts Mon 23 Nov 12:25 AM</desc>
+  </programme>
+  <programme start="20261122132500 +0000" stop="20261122162500 +0000" channel="Kayo AU 06">
+    <title lang="en">[LIVE] Football Eredivisie Ajax v Den Haag</title>
+    <desc lang="en">Mon 23 Nov 12:25 AM</desc>
+  </programme>
+  <programme start="20261122162500 +0000" stop="20261123110000 +0000" channel="Kayo AU 06">
     <title lang="en">Signing off</title>
   </programme>
   <programme start="20261122110000 +0000" stop="20261123110000 +0000" channel="Kayo AU 07">
