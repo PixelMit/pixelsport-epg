@@ -307,51 +307,36 @@
   <channel id="NBA 01">
     <display-name>NBA 01</display-name>
     <display-name>NBA 01: Bucks vs. 76ers @ 21 Nov 12:58 PM ET</display-name>
-    <display-name>NBA 01: Hornets vs. Hawks @ 20 Nov 06:58 PM ET</display-name>
     <display-name>NBA 01: Pistons vs. Hawks @ 22 Nov 03:28 PM ET</display-name>
   </channel>
   <channel id="NBA 02">
     <display-name>NBA 02</display-name>
-    <display-name>NBA 02: Raptors vs. Pistons @ 20 Nov 06:58 PM ET</display-name>
     <display-name>NBA 02: Thunder vs. Heat @ 22 Nov 05:58 PM ET</display-name>
     <display-name>NBA 02: Trail Blazers vs. Knicks @ 21 Nov 07:28 PM ET</display-name>
   </channel>
   <channel id="NBA 03">
     <display-name>NBA 03</display-name>
     <display-name>NBA 03: Grizzlies vs. Timberwolves @ 21 Nov 07:58 PM ET</display-name>
-    <display-name>NBA 03: Magic vs. Nets @ 20 Nov 07:28 PM ET</display-name>
     <display-name>NBA 03: Nuggets vs. Bulls @ 22 Nov 06:58 PM ET</display-name>
   </channel>
   <channel id="NBA 04">
     <display-name>NBA 04</display-name>
     <display-name>NBA 04: Clippers vs. Mavericks @ 21 Nov 07:58 PM ET</display-name>
     <display-name>NBA 04: Magic vs. Wizards @ 22 Nov 06:58 PM ET</display-name>
-    <display-name>NBA 04: Pacers vs. Cavaliers @ 20 Nov 07:28 PM ET</display-name>
   </channel>
   <channel id="NBA 05">
     <display-name>NBA 05</display-name>
     <display-name>NBA 05: Mavericks vs. Jazz @ 22 Nov 06:58 PM ET</display-name>
     <display-name>NBA 05: Pelicans vs. Spurs @ 21 Nov 07:58 PM ET</display-name>
-    <display-name>NBA 05: Wizards vs. Bulls @ 20 Nov 07:58 PM ET</display-name>
   </channel>
   <channel id="NBA 06">
     <display-name>NBA 06</display-name>
     <display-name>NBA 06: Celtics vs. Kings @ 21 Nov 09:58 PM ET</display-name>
     <display-name>NBA 06: Pacers vs. Knicks @ 22 Nov 07:58 PM ET</display-name>
-    <display-name>NBA 06: Pelicans vs. Thunder @ 20 Nov 07:58 PM ET</display-name>
   </channel>
   <channel id="NBA 07">
     <display-name>NBA 07</display-name>
     <display-name>NBA 07: Celtics vs. Warriors @ 22 Nov 08:28 PM ET</display-name>
-    <display-name>NBA 07: Suns vs. Jazz @ 20 Nov 09:28 PM ET</display-name>
-  </channel>
-  <channel id="NBA 08">
-    <display-name>NBA 08</display-name>
-    <display-name>NBA 08: Rockets vs. Nuggets @ 20 Nov 09:58 PM ET</display-name>
-  </channel>
-  <channel id="NBA 09">
-    <display-name>NBA 09</display-name>
-    <display-name>NBA 09: Kings vs. Lakers @ 20 Nov 09:58 PM ET</display-name>
   </channel>
   <channel id="PL+ 01">
     <display-name>PL+ 01</display-name>
@@ -508,108 +493,104 @@
     <display-name>Stan AU 26</display-name>
     <display-name>Stan AU 26: Race: FR World Cup - Macau Grand Prix 2026 @ 22 Nov 06:00 PM Sydney</display-name>
   </channel>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 01">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 02">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 03">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 04">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 05">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 06">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 06">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 07">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 07">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 08">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 08">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 09">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 09">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 10">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 10">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 11">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 11">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 12">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 12">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 13">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 13">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 14">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 14">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 15">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 15">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 16">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 16">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 17">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 17">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 18">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 18">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 19">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 19">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 20">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 20">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 21">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 21">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 22">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 22">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 23">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 23">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 24">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 24">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 25">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 25">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 26">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 26">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 27">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 27">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 28">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 28">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 29">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 29">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Apple TV F1 30">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Apple TV F1 30">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122155500 +0000" channel="EPL 01">
+  <programme start="20261122150000 +0000" stop="20261122155500 +0000" channel="EPL 01">
     <title lang="en">[LIVE] Hull v Brighton</title>
     <desc lang="en">Mon 23 Nov 1:00 AM</desc>
   </programme>
-  <programme start="20261122155500 +0000" stop="20261123140000 +0000" channel="EPL 01">
+  <programme start="20261122155500 +0000" stop="20261123150000 +0000" channel="EPL 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="EPL 02">
-    <title lang="en">Live in 3 hours</title>
-    <desc lang="en">Liverpool v Man Utd starts Mon 23 Nov 3:30 AM</desc>
-  </programme>
-  <programme start="20261122143000 +0000" stop="20261122163000 +0000" channel="EPL 02">
+  <programme start="20261122150000 +0000" stop="20261122163000 +0000" channel="EPL 02">
     <title lang="en">Live in 2 hours</title>
     <desc lang="en">Liverpool v Man Utd starts Mon 23 Nov 3:30 AM</desc>
   </programme>
@@ -617,121 +598,117 @@
     <title lang="en">[LIVE] Liverpool v Man Utd</title>
     <desc lang="en">Mon 23 Nov 3:30 AM</desc>
   </programme>
-  <programme start="20261122182500 +0000" stop="20261123140000 +0000" channel="EPL 02">
+  <programme start="20261122182500 +0000" stop="20261123150000 +0000" channel="EPL 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="EPL Goal Rush: Multi View">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="EPL Goal Rush: Multi View">
     <title lang="en">EPL Goal Rush: Multi View</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="EPLⒷⓟ 01">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="EPLⒷⓟ 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 01">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 02">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122151500 +0000" channel="Kayo AU 03">
+  <programme start="20261122150000 +0000" stop="20261122151500 +0000" channel="Kayo AU 03">
     <title lang="en">[LIVE] Motorsport MotoGP MotoGP Portugal Race</title>
     <desc lang="en">Sun 22 Nov 11:15 PM</desc>
   </programme>
-  <programme start="20261122151500 +0000" stop="20261123140000 +0000" channel="Kayo AU 03">
+  <programme start="20261122151500 +0000" stop="20261123150000 +0000" channel="Kayo AU 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122155000 +0000" channel="Kayo AU 04">
+  <programme start="20261122150000 +0000" stop="20261122155000 +0000" channel="Kayo AU 04">
     <title lang="en">[LIVE] Equestrian Global Champions Tour Verona Super Cup Final</title>
     <desc lang="en">Sun 22 Nov 11:50 PM</desc>
   </programme>
-  <programme start="20261122155000 +0000" stop="20261123140000 +0000" channel="Kayo AU 04">
+  <programme start="20261122155000 +0000" stop="20261123150000 +0000" channel="Kayo AU 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122160000 +0000" channel="Kayo AU 05">
+  <programme start="20261122150000 +0000" stop="20261122160000 +0000" channel="Kayo AU 05">
     <title lang="en">[LIVE] Darts Grand Slam of Darts Grand Slam</title>
     <desc lang="en">Mon 23 Nov 12:00 AM</desc>
   </programme>
-  <programme start="20261122160000 +0000" stop="20261123140000 +0000" channel="Kayo AU 05">
+  <programme start="20261122160000 +0000" stop="20261123150000 +0000" channel="Kayo AU 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122162500 +0000" channel="Kayo AU 06">
+  <programme start="20261122150000 +0000" stop="20261122162500 +0000" channel="Kayo AU 06">
     <title lang="en">[LIVE] Football Eredivisie Ajax v Den Haag</title>
     <desc lang="en">Mon 23 Nov 12:25 AM</desc>
   </programme>
-  <programme start="20261122162500 +0000" stop="20261123140000 +0000" channel="Kayo AU 06">
+  <programme start="20261122162500 +0000" stop="20261123150000 +0000" channel="Kayo AU 06">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 07">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 07">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 08">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 08">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 09">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 09">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 10">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 10">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 11">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 11">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 12">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 12">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 13">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 13">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 14">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 14">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 15">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 15">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 16">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 16">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 17">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 17">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 18">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 18">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 19">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 19">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 20">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 20">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 21">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 21">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 22">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 22">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 23">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 23">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 24">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 24">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 25">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 25">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 26">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 26">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 27">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 27">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 28">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 28">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Kayo AU 29">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Kayo AU 29">
     <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="LIVE EVENT 01">
-    <title lang="en">Live in 3 hours</title>
-    <desc lang="en">Thor Mini Os Gatorback starts Mon 23 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261122150000 +0000" stop="20261122170000 +0000" channel="LIVE EVENT 01">
     <title lang="en">Live in 2 hours</title>
@@ -741,12 +718,8 @@
     <title lang="en">[LIVE] Thor Mini Os Gatorback</title>
     <desc lang="en">Mon 23 Nov 4:00 AM</desc>
   </programme>
-  <programme start="20261122200000 +0000" stop="20261123140000 +0000" channel="LIVE EVENT 01">
+  <programme start="20261122200000 +0000" stop="20261123150000 +0000" channel="LIVE EVENT 01">
     <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="LIVE EVENT 02">
-    <title lang="en">Live in 5 hours</title>
-    <desc lang="en">Georgia State Race Championship Sunday starts Mon 23 Nov 6:00 AM</desc>
   </programme>
   <programme start="20261122150000 +0000" stop="20261122170000 +0000" channel="LIVE EVENT 02">
     <title lang="en">Live in 4 hours</title>
@@ -760,25 +733,21 @@
     <title lang="en">[LIVE] Georgia State Race Championship Sunday</title>
     <desc lang="en">Mon 23 Nov 6:00 AM</desc>
   </programme>
-  <programme start="20261122220000 +0000" stop="20261123140000 +0000" channel="LIVE EVENT 02">
+  <programme start="20261122220000 +0000" stop="20261123150000 +0000" channel="LIVE EVENT 02">
     <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="LIVE EVENT 26">
-    <title lang="en">Live in 1 hour</title>
-    <desc lang="en">UFC Fight Nigh starts Mon 23 Nov 2:00 AM · Special Feed</desc>
   </programme>
   <programme start="20261122150000 +0000" stop="20261122200000 +0000" channel="LIVE EVENT 26">
     <title lang="en">[LIVE] UFC Fight Nigh</title>
     <desc lang="en">Special Feed · Mon 23 Nov 2:00 AM</desc>
   </programme>
-  <programme start="20261122200000 +0000" stop="20261123140000 +0000" channel="LIVE EVENT 26">
+  <programme start="20261122200000 +0000" stop="20261123150000 +0000" channel="LIVE EVENT 26">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="LIVE EVENT 27">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="LIVE EVENT 27">
     <title lang="en">UFC 334: Multiview</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122160000 +0000" channel="LIVE EVENT 28">
-    <title lang="en">Live in 10 hours</title>
+  <programme start="20261122150000 +0000" stop="20261122160000 +0000" channel="LIVE EVENT 28">
+    <title lang="en">Live in 9 hours</title>
     <desc lang="en">AEW Saturday Tailgate Brawl starts Mon 23 Nov 11:00 AM</desc>
   </programme>
   <programme start="20261122160000 +0000" stop="20261122180000 +0000" channel="LIVE EVENT 28">
@@ -801,14 +770,10 @@
     <title lang="en">[LIVE] AEW Saturday Tailgate Brawl</title>
     <desc lang="en">Mon 23 Nov 11:00 AM</desc>
   </programme>
-  <programme start="20261123030000 +0000" stop="20261123140000 +0000" channel="LIVE EVENT 28">
+  <programme start="20261123030000 +0000" stop="20261123150000 +0000" channel="LIVE EVENT 28">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122142800 +0000" channel="NBA 01">
-    <title lang="en">Live in 7 hours</title>
-    <desc lang="en">Pistons vs. Hawks starts Mon 23 Nov 7:28 AM</desc>
-  </programme>
-  <programme start="20261122142800 +0000" stop="20261122162800 +0000" channel="NBA 01">
+  <programme start="20261122150000 +0000" stop="20261122162800 +0000" channel="NBA 01">
     <title lang="en">Live in 6 hours</title>
     <desc lang="en">Pistons vs. Hawks starts Mon 23 Nov 7:28 AM</desc>
   </programme>
@@ -824,14 +789,10 @@
     <title lang="en">[LIVE] Pistons vs. Hawks</title>
     <desc lang="en">Mon 23 Nov 7:28 AM</desc>
   </programme>
-  <programme start="20261122225800 +0000" stop="20261123140000 +0000" channel="NBA 01">
+  <programme start="20261122225800 +0000" stop="20261123150000 +0000" channel="NBA 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122145800 +0000" channel="NBA 02">
-    <title lang="en">Live in 9 hours</title>
-    <desc lang="en">Thunder vs. Heat starts Mon 23 Nov 9:58 AM</desc>
-  </programme>
-  <programme start="20261122145800 +0000" stop="20261122165800 +0000" channel="NBA 02">
+  <programme start="20261122150000 +0000" stop="20261122165800 +0000" channel="NBA 02">
     <title lang="en">Live in 8 hours</title>
     <desc lang="en">Thunder vs. Heat starts Mon 23 Nov 9:58 AM</desc>
   </programme>
@@ -851,11 +812,11 @@
     <title lang="en">[LIVE] Thunder vs. Heat</title>
     <desc lang="en">Mon 23 Nov 9:58 AM</desc>
   </programme>
-  <programme start="20261123012800 +0000" stop="20261123140000 +0000" channel="NBA 02">
+  <programme start="20261123012800 +0000" stop="20261123150000 +0000" channel="NBA 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122155800 +0000" channel="NBA 03">
-    <title lang="en">Live in 10 hours</title>
+  <programme start="20261122150000 +0000" stop="20261122155800 +0000" channel="NBA 03">
+    <title lang="en">Live in 9 hours</title>
     <desc lang="en">Nuggets vs. Bulls starts Mon 23 Nov 10:58 AM</desc>
   </programme>
   <programme start="20261122155800 +0000" stop="20261122175800 +0000" channel="NBA 03">
@@ -878,11 +839,11 @@
     <title lang="en">[LIVE] Nuggets vs. Bulls</title>
     <desc lang="en">Mon 23 Nov 10:58 AM</desc>
   </programme>
-  <programme start="20261123022800 +0000" stop="20261123140000 +0000" channel="NBA 03">
+  <programme start="20261123022800 +0000" stop="20261123150000 +0000" channel="NBA 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122155800 +0000" channel="NBA 04">
-    <title lang="en">Live in 10 hours</title>
+  <programme start="20261122150000 +0000" stop="20261122155800 +0000" channel="NBA 04">
+    <title lang="en">Live in 9 hours</title>
     <desc lang="en">Magic vs. Wizards starts Mon 23 Nov 10:58 AM</desc>
   </programme>
   <programme start="20261122155800 +0000" stop="20261122175800 +0000" channel="NBA 04">
@@ -905,11 +866,11 @@
     <title lang="en">[LIVE] Magic vs. Wizards</title>
     <desc lang="en">Mon 23 Nov 10:58 AM</desc>
   </programme>
-  <programme start="20261123022800 +0000" stop="20261123140000 +0000" channel="NBA 04">
+  <programme start="20261123022800 +0000" stop="20261123150000 +0000" channel="NBA 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122155800 +0000" channel="NBA 05">
-    <title lang="en">Live in 10 hours</title>
+  <programme start="20261122150000 +0000" stop="20261122155800 +0000" channel="NBA 05">
+    <title lang="en">Live in 9 hours</title>
     <desc lang="en">Mavericks vs. Jazz starts Mon 23 Nov 10:58 AM</desc>
   </programme>
   <programme start="20261122155800 +0000" stop="20261122175800 +0000" channel="NBA 05">
@@ -932,14 +893,10 @@
     <title lang="en">[LIVE] Mavericks vs. Jazz</title>
     <desc lang="en">Mon 23 Nov 10:58 AM</desc>
   </programme>
-  <programme start="20261123022800 +0000" stop="20261123140000 +0000" channel="NBA 05">
+  <programme start="20261123022800 +0000" stop="20261123150000 +0000" channel="NBA 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122145800 +0000" channel="NBA 06">
-    <title lang="en">Live in 11 hours</title>
-    <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
-  </programme>
-  <programme start="20261122145800 +0000" stop="20261122165800 +0000" channel="NBA 06">
+  <programme start="20261122150000 +0000" stop="20261122165800 +0000" channel="NBA 06">
     <title lang="en">Live in 10 hours</title>
     <desc lang="en">Pacers vs. Knicks starts Mon 23 Nov 11:58 AM</desc>
   </programme>
@@ -963,11 +920,11 @@
     <title lang="en">[LIVE] Pacers vs. Knicks</title>
     <desc lang="en">Mon 23 Nov 11:58 AM</desc>
   </programme>
-  <programme start="20261123032800 +0000" stop="20261123140000 +0000" channel="NBA 06">
+  <programme start="20261123032800 +0000" stop="20261123150000 +0000" channel="NBA 06">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122152800 +0000" channel="NBA 07">
-    <title lang="en">Live in 12 hours</title>
+  <programme start="20261122150000 +0000" stop="20261122152800 +0000" channel="NBA 07">
+    <title lang="en">Live in 11 hours</title>
     <desc lang="en">Celtics vs. Warriors starts Mon 23 Nov 12:28 PM</desc>
   </programme>
   <programme start="20261122152800 +0000" stop="20261122172800 +0000" channel="NBA 07">
@@ -994,88 +951,70 @@
     <title lang="en">[LIVE] Celtics vs. Warriors</title>
     <desc lang="en">Mon 23 Nov 12:28 PM</desc>
   </programme>
-  <programme start="20261123035800 +0000" stop="20261123140000 +0000" channel="NBA 07">
+  <programme start="20261123035800 +0000" stop="20261123150000 +0000" channel="NBA 07">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="NBA 08">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="PL+ 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="NBA 09">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="PL+ 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="PL+ 01">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="PL+ 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="PL+ 02">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="PL+ 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="PL+ 03">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="PL+ 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="PL+ 04">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="PL+ 06">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="PL+ 05">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="PL+ 07">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="PL+ 06">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Paramount+ AU 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="PL+ 07">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Paramount+ AU 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Paramount+ AU 01">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Paramount+ AU 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Paramount+ AU 02">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Paramount+ AU 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Paramount+ AU 03">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Paramount+ AU 04">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 01">
-    <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122145500 +0000" channel="Stan AU 02">
-    <title lang="en">[LIVE] Hull City v Brighton &amp; Hove Albion</title>
-    <desc lang="en">Premier League Matchweek 11 2026/2027 · Mon 23 Nov 12:00 AM</desc>
-  </programme>
-  <programme start="20261122145500 +0000" stop="20261123140000 +0000" channel="Stan AU 02">
-    <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122154500 +0000" channel="Stan AU 03">
+  <programme start="20261122150000 +0000" stop="20261122154500 +0000" channel="Stan AU 03">
     <title lang="en">[LIVE] Charlton Athletic v Aston Villa</title>
     <desc lang="en">WSL 2026/27 · Mon 23 Nov 12:50 AM</desc>
   </programme>
-  <programme start="20261122154500 +0000" stop="20261123140000 +0000" channel="Stan AU 03">
+  <programme start="20261122154500 +0000" stop="20261123150000 +0000" channel="Stan AU 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122154500 +0000" channel="Stan AU 04">
+  <programme start="20261122150000 +0000" stop="20261122154500 +0000" channel="Stan AU 04">
     <title lang="en">[LIVE] Everton v Brighton &amp; Hove Albion</title>
     <desc lang="en">WSL 2026/27 · Mon 23 Nov 12:50 AM</desc>
   </programme>
-  <programme start="20261122154500 +0000" stop="20261123140000 +0000" channel="Stan AU 04">
+  <programme start="20261122154500 +0000" stop="20261123150000 +0000" channel="Stan AU 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122142000 +0000" channel="Stan AU 05">
-    <title lang="en">Live in 1 hour</title>
-    <desc lang="en">Arsenal v West Ham United starts Mon 23 Nov 1:20 AM · WSL 2026/27</desc>
-  </programme>
-  <programme start="20261122142000 +0000" stop="20261122161500 +0000" channel="Stan AU 05">
+  <programme start="20261122150000 +0000" stop="20261122161500 +0000" channel="Stan AU 05">
     <title lang="en">[LIVE] Arsenal v West Ham United</title>
     <desc lang="en">WSL 2026/27 · Mon 23 Nov 1:20 AM</desc>
   </programme>
-  <programme start="20261122161500 +0000" stop="20261123140000 +0000" channel="Stan AU 05">
+  <programme start="20261122161500 +0000" stop="20261123150000 +0000" channel="Stan AU 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122142000 +0000" channel="Stan AU 06">
-    <title lang="en">Live in 3 hours</title>
-    <desc lang="en">Liverpool v Manchester United starts Mon 23 Nov 3:20 AM · Premier League Matchweek 11 2026/2027</desc>
-  </programme>
-  <programme start="20261122142000 +0000" stop="20261122162000 +0000" channel="Stan AU 06">
+  <programme start="20261122150000 +0000" stop="20261122162000 +0000" channel="Stan AU 06">
     <title lang="en">Live in 2 hours</title>
     <desc lang="en">Liverpool v Manchester United starts Mon 23 Nov 3:20 AM · Premier League Matchweek 11 2026/2027</desc>
   </programme>
@@ -1083,12 +1022,8 @@
     <title lang="en">[LIVE] Liverpool v Manchester United</title>
     <desc lang="en">Premier League Matchweek 11 2026/2027 · Mon 23 Nov 3:20 AM</desc>
   </programme>
-  <programme start="20261122181500 +0000" stop="20261123140000 +0000" channel="Stan AU 06">
+  <programme start="20261122181500 +0000" stop="20261123150000 +0000" channel="Stan AU 06">
     <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="Stan AU 07">
-    <title lang="en">Live in 5 hours</title>
-    <desc lang="en">PL Weekend Wrap: Matchweek 11 starts Mon 23 Nov 6:00 AM · Nov 23</desc>
   </programme>
   <programme start="20261122150000 +0000" stop="20261122170000 +0000" channel="Stan AU 07">
     <title lang="en">Live in 4 hours</title>
@@ -1102,64 +1037,64 @@
     <title lang="en">[LIVE] PL Weekend Wrap: Matchweek 11</title>
     <desc lang="en">Nov 23 · Mon 23 Nov 6:00 AM</desc>
   </programme>
-  <programme start="20261122205500 +0000" stop="20261123140000 +0000" channel="Stan AU 07">
+  <programme start="20261122205500 +0000" stop="20261123150000 +0000" channel="Stan AU 07">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 08">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 08">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 09">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 09">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 10">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 10">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 11">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 11">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 12">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 12">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 13">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 13">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 14">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 14">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 15">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 15">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 16">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 16">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 17">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 17">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 18">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 18">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 19">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 19">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 20">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 20">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 21">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 21">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 22">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 22">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 23">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 23">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 24">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 24">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 25">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 25">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261123140000 +0000" channel="Stan AU 26">
+  <programme start="20261122150000 +0000" stop="20261123150000 +0000" channel="Stan AU 26">
     <title lang="en">Signing off</title>
   </programme>
 </tv>
