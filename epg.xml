@@ -205,11 +205,11 @@
   </channel>
   <channel id="EPL 01">
     <display-name>EPL 01</display-name>
-    <display-name>EPL01: Hull 14:00 Brighton 22/11</display-name>
+    <display-name>EPL01: Brentford 20:00 Everton 23/11</display-name>
   </channel>
   <channel id="EPL 02">
     <display-name>EPL 02</display-name>
-    <display-name>EPL02: Liverpool 16:30 Man Utd 22/11</display-name>
+    <display-name>EPL02:</display-name>
   </channel>
   <channel id="EPL 03">
     <display-name>EPL 03</display-name>
@@ -2169,8 +2169,37 @@
   <programme start="20261123090000 +0000" stop="20261124090000 +0000" channel="Apple TV F1 30">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261123090000 +0000" stop="20261124090000 +0000" channel="EPL 01">
-    <title lang="en">No Event Today</title>
+  <programme start="20261123090000 +0000" stop="20261123100000 +0000" channel="EPL 01">
+    <title lang="en">Live in 11 hours</title>
+    <desc lang="en">Brentford v Everton starts Tue 24 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="EPL 01">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Brentford v Everton starts Tue 24 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="EPL 01">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Brentford v Everton starts Tue 24 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="EPL 01">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Brentford v Everton starts Tue 24 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="EPL 01">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Brentford v Everton starts Tue 24 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="EPL 01">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Brentford v Everton starts Tue 24 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123215500 +0000" channel="EPL 01">
+    <title lang="en">Brentford v Everton ᴸᶦᵛᵉ</title>
+    <desc lang="en">Tue 24 Nov 7:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261123215500 +0000" stop="20261124090000 +0000" channel="EPL 01">
+    <title lang="en">Signing off</title>
   </programme>
   <programme start="20261123090000 +0000" stop="20261124090000 +0000" channel="EPL 02">
     <title lang="en">No Event Today</title>
