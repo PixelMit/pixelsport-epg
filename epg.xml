@@ -289,7 +289,7 @@
   </channel>
   <channel id="LIVE EVENT 02">
     <display-name>LIVE EVENT 02</display-name>
-    <display-name>LIVE EVENT 02 - 9pm USAC National Midgets Plaza Park</display-name>
+    <display-name>LIVE EVENT 02 - CANCELLED 9pm USAC National Midgets Plaza Park</display-name>
   </channel>
   <channel id="LIVE EVENT 03">
     <display-name>LIVE EVENT 03</display-name>
@@ -1390,19 +1390,20 @@
   </programme>
   <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="LIVE EVENT 02">
     <title lang="en">Live in 4 hours</title>
-    <desc lang="en">USAC National Midgets Plaza Park starts Tue 24 Nov 1:00 PM</desc>
+    <desc lang="en">CANCELLED USAC National Midgets Plaza Park starts Tue 24 Nov 1:00 PM</desc>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="LIVE EVENT 02">
     <title lang="en">Live in 2 hours</title>
-    <desc lang="en">USAC National Midgets Plaza Park starts Tue 24 Nov 1:00 PM</desc>
+    <desc lang="en">CANCELLED USAC National Midgets Plaza Park starts Tue 24 Nov 1:00 PM</desc>
   </programme>
   <programme start="20261124020000 +0000" stop="20261124050000 +0000" channel="LIVE EVENT 02">
-    <title lang="en">USAC National Midgets Plaza Park ᴸᶦᵛᵉ</title>
+    <title lang="en">CANCELLED USAC National Midgets Plaza Park ᴸᶦᵛᵉ</title>
     <desc lang="en">Tue 24 Nov 1:00 PM</desc>
     <category lang="en">Live</category>
   </programme>
   <programme start="20261124050000 +0000" stop="20261124220000 +0000" channel="LIVE EVENT 02">
-    <title lang="en">Signing off</title>
+    <title lang="en">Next: CANCELLED USAC National Midgets Plaza Park</title>
+    <desc lang="en">CANCELLED USAC National Midgets Plaza Park · Wed 25 Nov 1:00 PM</desc>
   </programme>
   <programme start="20261123220000 +0000" stop="20261124220000 +0000" channel="LIVE EVENT 03">
     <title lang="en">No Event Today</title>
