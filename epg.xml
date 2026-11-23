@@ -291,6 +291,7 @@
     <display-name>Kayo AU 01 - NO EVENT</display-name>
     <display-name>Kayo AU 01: Cricket Abu Dhabi T10 League Bulls v Aces @ Nov 19 9:25PM AEST</display-name>
     <display-name>Kayo AU 01: Cricket ICC World Test Championship Afghanistan v Zimbabwe Second Test Day 5 @ Nov 17 3:50PM AEST</display-name>
+    <display-name>Kayo AU 01: Cricket ICC World Test Championship South Africa v Bangladesh Second Test Day 1 @ Nov 23 5:30PM AEST</display-name>
     <display-name>Kayo AU 01: Cricket WBBL Strikers v Renegades @ Nov 20 5:45PM AEST</display-name>
     <display-name>Kayo AU 01: Motorsport FIM Moto2 World Championship Moto2 Portugal Race @ Nov 22 9:00PM AEST</display-name>
     <display-name>Kayo AU 01: NO EVENT</display-name>
@@ -302,6 +303,7 @@
   <channel id="Kayo AU 02">
     <display-name>Kayo AU 02</display-name>
     <display-name>Kayo AU 02 - NO EVENT</display-name>
+    <display-name>Kayo AU 02: Australian Rules  AFLW Awards The W Awards @ Nov 23 6:30PM AEST</display-name>
     <display-name>Kayo AU 02: Baseball Southern Stars &amp; Stripes Shield Aces v Black Sox Game 1 @ Nov 20 6:00PM AEST</display-name>
     <display-name>Kayo AU 02: Cricket ICC World Test Championship New Zealand v India First Test Day 3 @ Nov 21 7:30AM AEST</display-name>
     <display-name>Kayo AU 02: Cricket ICC World Test Championship South Africa v Bangladesh First Test Day 3 @ Nov 17 5:30PM AEST</display-name>
@@ -2257,11 +2259,21 @@
   <programme start="20261123100000 +0000" stop="20261124100000 +0000" channel="EPLⒷⓟ 10">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261124100000 +0000" channel="Kayo AU 01">
-    <title lang="en">No Event Today</title>
+  <programme start="20261123100000 +0000" stop="20261123103000 +0000" channel="Kayo AU 01">
+    <title lang="en">Cricket ICC World Test Championship South Africa v Bangladesh Second Test Day 1 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Mon 23 Nov 6:30 PM</desc>
+    <category lang="en">Live</category>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261124100000 +0000" channel="Kayo AU 02">
-    <title lang="en">No Event Today</title>
+  <programme start="20261123103000 +0000" stop="20261124100000 +0000" channel="Kayo AU 01">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123113000 +0000" channel="Kayo AU 02">
+    <title lang="en">Australian Rules  AFLW Awards The W Awards ᴸᶦᵛᵉ</title>
+    <desc lang="en">Mon 23 Nov 7:30 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261123113000 +0000" stop="20261124100000 +0000" channel="Kayo AU 02">
+    <title lang="en">Signing off</title>
   </programme>
   <programme start="20261123100000 +0000" stop="20261124100000 +0000" channel="Kayo AU 03">
     <title lang="en">No Event Today</title>
