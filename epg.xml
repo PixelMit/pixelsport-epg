@@ -289,7 +289,7 @@
   </channel>
   <channel id="LIVE EVENT 02">
     <display-name>LIVE EVENT 02</display-name>
-    <display-name>LIVE EVENT 02 - 6:45pm USAC Jason Leffler Memorial Kern</display-name>
+    <display-name>LIVE EVENT 02 - 7:45pm USAC Jason Leffler Memorial Kern</display-name>
   </channel>
   <channel id="LIVE EVENT 03">
     <display-name>LIVE EVENT 03</display-name>
@@ -1500,12 +1500,57 @@
     <title lang="en">Signing off</title>
   </programme>
   <programme start="20261125010000 +0000" stop="20261125024500 +0000" channel="LIVE EVENT 02">
-    <title lang="en">USAC Jason Leffler Memorial Kern ᴸᶦᵛᵉ</title>
-    <desc lang="en">Wed 25 Nov 10:45 AM</desc>
-    <category lang="en">Live</category>
+    <title lang="en">Live in 24 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
   </programme>
-  <programme start="20261125024500 +0000" stop="20261126010000 +0000" channel="LIVE EVENT 02">
-    <title lang="en">Signing off</title>
+  <programme start="20261125024500 +0000" stop="20261125044500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 22 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125044500 +0000" stop="20261125064500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 20 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125064500 +0000" stop="20261125084500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125084500 +0000" stop="20261125104500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125104500 +0000" stop="20261125124500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125124500 +0000" stop="20261125144500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125144500 +0000" stop="20261125164500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125164500 +0000" stop="20261125184500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125184500 +0000" stop="20261125204500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125204500 +0000" stop="20261125224500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261125224500 +0000" stop="20261126004500 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">USAC Jason Leffler Memorial Kern starts Thu 26 Nov 11:45 AM</desc>
+  </programme>
+  <programme start="20261126004500 +0000" stop="20261126010000 +0000" channel="LIVE EVENT 02">
+    <title lang="en">USAC Jason Leffler Memorial Kern ᴸᶦᵛᵉ</title>
+    <desc lang="en">Thu 26 Nov 11:45 AM</desc>
+    <category lang="en">Live</category>
   </programme>
   <programme start="20261125010000 +0000" stop="20261126010000 +0000" channel="LIVE EVENT 03">
     <title lang="en">No Event Today</title>
