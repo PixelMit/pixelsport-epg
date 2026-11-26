@@ -289,7 +289,7 @@
   </channel>
   <channel id="LIVE EVENT 02">
     <display-name>LIVE EVENT 02</display-name>
-    <display-name>LIVE EVENT 02 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 02 - 8PM AEW Dynamite (Commercial Free)</display-name>
   </channel>
   <channel id="LIVE EVENT 03">
     <display-name>LIVE EVENT 03</display-name>
@@ -1500,7 +1500,8 @@
     <title lang="en">No Event Today</title>
   </programme>
   <programme start="20261126010000 +0000" stop="20261127010000 +0000" channel="LIVE EVENT 02">
-    <title lang="en">No Event Today</title>
+    <title lang="en">Next: AEW Dynamite (Commercial Free</title>
+    <desc lang="en">AEW Dynamite (Commercial Free · Fri 27 Nov 12:00 PM</desc>
   </programme>
   <programme start="20261126010000 +0000" stop="20261127010000 +0000" channel="LIVE EVENT 03">
     <title lang="en">No Event Today</title>
