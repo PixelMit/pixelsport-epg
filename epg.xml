@@ -2,7 +2,7 @@
 <tv generator-info-name="PixelSport">
   <channel id="EPL 01">
     <display-name>EPL 01</display-name>
-    <display-name>EPL01:</display-name>
+    <display-name>EPL01: Notts Forest 20:00 Chelsea 27/11</display-name>
   </channel>
   <channel id="EPL 02">
     <display-name>EPL 02</display-name>
@@ -1283,8 +1283,37 @@
     <display-name>Stan AU 50</display-name>
     <display-name>Stan AU 50: NO EVENT</display-name>
   </channel>
-  <programme start="20261127090000 +0000" stop="20261128090000 +0000" channel="EPL 01">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="EPL 01">
+    <title lang="en">Live in 11 hours</title>
+    <desc lang="en">Notts Forest v Chelsea starts Sat 28 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127120000 +0000" channel="EPL 01">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Notts Forest v Chelsea starts Sat 28 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127140000 +0000" channel="EPL 01">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Notts Forest v Chelsea starts Sat 28 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261127140000 +0000" stop="20261127160000 +0000" channel="EPL 01">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Notts Forest v Chelsea starts Sat 28 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261127180000 +0000" channel="EPL 01">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Notts Forest v Chelsea starts Sat 28 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261127180000 +0000" stop="20261127200000 +0000" channel="EPL 01">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Notts Forest v Chelsea starts Sat 28 Nov 7:00 AM</desc>
+  </programme>
+  <programme start="20261127200000 +0000" stop="20261127215500 +0000" channel="EPL 01">
+    <title lang="en">Notts Forest v Chelsea ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 7:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127215500 +0000" stop="20261128090000 +0000" channel="EPL 01">
+    <title lang="en">Signing off</title>
   </programme>
   <programme start="20261127090000 +0000" stop="20261128090000 +0000" channel="EPL 02">
     <title lang="en">No Event Today</title>
