@@ -289,7 +289,7 @@
   </channel>
   <channel id="LIVE EVENT 02">
     <display-name>LIVE EVENT 02</display-name>
-    <display-name>LIVE EVENT 02 - 8:40am Cruz v Subkhankulov</display-name>
+    <display-name>LIVE EVENT 02 - NO EVENT</display-name>
   </channel>
   <channel id="LIVE EVENT 03">
     <display-name>LIVE EVENT 03</display-name>
@@ -309,7 +309,7 @@
   </channel>
   <channel id="LIVE EVENT 07">
     <display-name>LIVE EVENT 07</display-name>
-    <display-name>LIVE EVENT 07 - 1pm 4 Cyl Nationals Cherokee</display-name>
+    <display-name>LIVE EVENT 07 - 6pm 4 Cyl Nationals Cherokee</display-name>
   </channel>
   <channel id="LIVE EVENT 08">
     <display-name>LIVE EVENT 08</display-name>
@@ -1505,7 +1505,7 @@
     <title lang="en">No Event Today</title>
   </programme>
   <programme start="20261127200000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 02">
-    <title lang="en">Signing off</title>
+    <title lang="en">No Event Today</title>
   </programme>
   <programme start="20261127200000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 03">
     <title lang="en">Signing off</title>
@@ -1525,12 +1525,21 @@
     <title lang="en">Signing off</title>
   </programme>
   <programme start="20261127200000 +0000" stop="20261127210000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 3 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 10:00 AM</desc>
+  </programme>
+  <programme start="20261127210000 +0000" stop="20261127230000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 10:00 AM</desc>
+  </programme>
+  <programme start="20261127230000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 07">
     <title lang="en">4 Cyl Nationals Cherokee ᴸᶦᵛᵉ</title>
-    <desc lang="en">Sat 28 Nov 5:00 AM</desc>
+    <desc lang="en">Sat 28 Nov 10:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261127210000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Signing off</title>
+  <programme start="20261128020000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Next: 4 Cyl Nationals Cherokee</title>
+    <desc lang="en">4 Cyl Nationals Cherokee · Sun 29 Nov 10:00 AM</desc>
   </programme>
   <programme start="20261127200000 +0000" stop="20261127213000 +0000" channel="LIVE EVENT 08">
     <title lang="en">Live in 4 hours</title>
