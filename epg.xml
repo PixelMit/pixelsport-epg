@@ -285,7 +285,7 @@
   </channel>
   <channel id="LIVE EVENT 01">
     <display-name>LIVE EVENT 01</display-name>
-    <display-name>LIVE EVENT 01 - 8:30am ONE Friday Fights 180</display-name>
+    <display-name>LIVE EVENT 01 - NO EVENT</display-name>
   </channel>
   <channel id="LIVE EVENT 02">
     <display-name>LIVE EVENT 02</display-name>
@@ -1506,7 +1506,7 @@
     <title lang="en">No Event Today</title>
   </programme>
   <programme start="20261127180000 +0000" stop="20261128180000 +0000" channel="LIVE EVENT 01">
-    <title lang="en">Signing off</title>
+    <title lang="en">No Event Today</title>
   </programme>
   <programme start="20261127180000 +0000" stop="20261128180000 +0000" channel="LIVE EVENT 02">
     <title lang="en">Signing off</title>
