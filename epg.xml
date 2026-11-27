@@ -85,35 +85,35 @@
   </channel>
   <channel id="Kayo AU 01">
     <display-name>Kayo AU 01</display-name>
-    <display-name>Kayo AU 01: NO EVENT</display-name>
+    <display-name>Kayo AU 01: Cricket WBBL Scorchers v Hurricanes @ Nov 27 8:07PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 02">
     <display-name>Kayo AU 02</display-name>
-    <display-name>Kayo AU 02: NO EVENT</display-name>
+    <display-name>Kayo AU 02: Motorsport FIM Moto3 World Championship Moto3 Valencia Practice 2 @ Nov 27 10:10PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 03">
     <display-name>Kayo AU 03</display-name>
-    <display-name>Kayo AU 03: NO EVENT</display-name>
+    <display-name>Kayo AU 03: Motorsport FIM Moto2 World Championship Moto2 Valencia Practice 2 @ Nov 27 10:55PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 04">
     <display-name>Kayo AU 04</display-name>
-    <display-name>Kayo AU 04: NO EVENT</display-name>
+    <display-name>Kayo AU 04: Darts Players Championship Players Championship D1 Day Session @ Nov 27 11:00PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 05">
     <display-name>Kayo AU 05</display-name>
-    <display-name>Kayo AU 05: NO EVENT</display-name>
+    <display-name>Kayo AU 05: Motorsport Formula 1 F1 Qatar Practice 1 @ Nov 27 11:00PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 06">
     <display-name>Kayo AU 06</display-name>
-    <display-name>Kayo AU 06: NO EVENT</display-name>
+    <display-name>Kayo AU 06: Golf ELPGA Costa Del Sol Open Round 2 @ Nov 27 11:00PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 07">
     <display-name>Kayo AU 07</display-name>
-    <display-name>Kayo AU 07: NO EVENT</display-name>
+    <display-name>Kayo AU 07: MMA ONE Championship ONE Friday Fights: 180 @ Nov 27 11:30PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 08">
     <display-name>Kayo AU 08</display-name>
-    <display-name>Kayo AU 08: NO EVENT</display-name>
+    <display-name>Kayo AU 08: Motorsport MotoGP MotoGP Valencia Practice 2 @ Nov 27 11:50PM AEST</display-name>
   </channel>
   <channel id="Kayo AU 09">
     <display-name>Kayo AU 09</display-name>
@@ -1367,29 +1367,97 @@
   <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="EPLⒷⓟ 10">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 01">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127120000 +0000" stop="20261127130700 +0000" channel="Kayo AU 01">
+    <title lang="en">Cricket WBBL Scorchers v Hurricanes ᴸᶦᵛᵉ</title>
+    <desc lang="en">Fri 27 Nov 9:07 PM</desc>
+    <category lang="en">Live</category>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 02">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127130700 +0000" stop="20261128120000 +0000" channel="Kayo AU 01">
+    <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 03">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127120000 +0000" stop="20261127121000 +0000" channel="Kayo AU 02">
+    <title lang="en">Live in 1 hour</title>
+    <desc lang="en">Motorsport FIM Moto3 World Championship Moto3 Valencia Practice 2 starts Fri 27 Nov 11:10 PM</desc>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 04">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127121000 +0000" stop="20261127151000 +0000" channel="Kayo AU 02">
+    <title lang="en">Motorsport FIM Moto3 World Championship Moto3 Valencia Practice 2 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Fri 27 Nov 11:10 PM</desc>
+    <category lang="en">Live</category>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 05">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127151000 +0000" stop="20261128120000 +0000" channel="Kayo AU 02">
+    <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 06">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127120000 +0000" stop="20261127125500 +0000" channel="Kayo AU 03">
+    <title lang="en">Live in 1 hour</title>
+    <desc lang="en">Motorsport FIM Moto2 World Championship Moto2 Valencia Practice 2 starts Fri 27 Nov 11:55 PM</desc>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 07">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127125500 +0000" stop="20261127155500 +0000" channel="Kayo AU 03">
+    <title lang="en">Motorsport FIM Moto2 World Championship Moto2 Valencia Practice 2 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Fri 27 Nov 11:55 PM</desc>
+    <category lang="en">Live</category>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 08">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127155500 +0000" stop="20261128120000 +0000" channel="Kayo AU 03">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="Kayo AU 04">
+    <title lang="en">Live in 1 hour</title>
+    <desc lang="en">Darts Players Championship Players Championship D1 Day Session starts Sat 28 Nov 12:00 AM</desc>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127160000 +0000" channel="Kayo AU 04">
+    <title lang="en">Darts Players Championship Players Championship D1 Day Session ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 12:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261128120000 +0000" channel="Kayo AU 04">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="Kayo AU 05">
+    <title lang="en">Live in 1 hour</title>
+    <desc lang="en">Motorsport Formula 1 F1 Qatar Practice 1 starts Sat 28 Nov 12:00 AM</desc>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127160000 +0000" channel="Kayo AU 05">
+    <title lang="en">Motorsport Formula 1 F1 Qatar Practice 1 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 12:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261128120000 +0000" channel="Kayo AU 05">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="Kayo AU 06">
+    <title lang="en">Live in 1 hour</title>
+    <desc lang="en">Golf ELPGA Costa Del Sol Open Round 2 starts Sat 28 Nov 12:00 AM</desc>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127160000 +0000" channel="Kayo AU 06">
+    <title lang="en">Golf ELPGA Costa Del Sol Open Round 2 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 12:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261128120000 +0000" channel="Kayo AU 06">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127133000 +0000" channel="Kayo AU 07">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">MMA ONE Championship ONE Friday Fights: 180 starts Sat 28 Nov 12:30 AM</desc>
+  </programme>
+  <programme start="20261127133000 +0000" stop="20261127163000 +0000" channel="Kayo AU 07">
+    <title lang="en">MMA ONE Championship ONE Friday Fights: 180 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 12:30 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127163000 +0000" stop="20261128120000 +0000" channel="Kayo AU 07">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127135000 +0000" channel="Kayo AU 08">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Motorsport MotoGP MotoGP Valencia Practice 2 starts Sat 28 Nov 12:50 AM</desc>
+  </programme>
+  <programme start="20261127135000 +0000" stop="20261127165000 +0000" channel="Kayo AU 08">
+    <title lang="en">Motorsport MotoGP MotoGP Valencia Practice 2 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 12:50 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127165000 +0000" stop="20261128120000 +0000" channel="Kayo AU 08">
+    <title lang="en">Signing off</title>
   </programme>
   <programme start="20261127120000 +0000" stop="20261128120000 +0000" channel="Kayo AU 09">
     <title lang="en">No Event Today</title>
