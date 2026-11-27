@@ -297,7 +297,7 @@
   </channel>
   <channel id="LIVE EVENT 04">
     <display-name>LIVE EVENT 04</display-name>
-    <display-name>LIVE EVENT 04 - 11am Mix Fight 59 Zakarian v Mohamad</display-name>
+    <display-name>LIVE EVENT 04 - NO EVENT</display-name>
   </channel>
   <channel id="LIVE EVENT 05">
     <display-name>LIVE EVENT 05</display-name>
@@ -1511,7 +1511,7 @@
     <title lang="en">Signing off</title>
   </programme>
   <programme start="20261127210000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 04">
-    <title lang="en">Signing off</title>
+    <title lang="en">No Event Today</title>
   </programme>
   <programme start="20261127210000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 05">
     <title lang="en">Signing off</title>
