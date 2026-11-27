@@ -289,31 +289,31 @@
   </channel>
   <channel id="LIVE EVENT 02">
     <display-name>LIVE EVENT 02</display-name>
-    <display-name>LIVE EVENT 02 - 8PM AEW Dynamite (Commercial Free)</display-name>
+    <display-name>LIVE EVENT 02 - 8:40am Cruz v Subkhankulov</display-name>
   </channel>
   <channel id="LIVE EVENT 03">
     <display-name>LIVE EVENT 03</display-name>
-    <display-name>LIVE EVENT 03 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 03 - 10:30am Odiase v Perez</display-name>
   </channel>
   <channel id="LIVE EVENT 04">
     <display-name>LIVE EVENT 04</display-name>
-    <display-name>LIVE EVENT 04 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 04 - 11am Mix Fight 59 Zakarian v Mohamad</display-name>
   </channel>
   <channel id="LIVE EVENT 05">
     <display-name>LIVE EVENT 05</display-name>
-    <display-name>LIVE EVENT 05 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 05 - 1pm Cage Warriors 214: Unplugged</display-name>
   </channel>
   <channel id="LIVE EVENT 06">
     <display-name>LIVE EVENT 06</display-name>
-    <display-name>LIVE EVENT 06 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 06 - 12pm Thor Mini O's Gatorback</display-name>
   </channel>
   <channel id="LIVE EVENT 07">
     <display-name>LIVE EVENT 07</display-name>
-    <display-name>LIVE EVENT 07 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 07 - 1pm 4 Cyl Nationals Cherokee</display-name>
   </channel>
   <channel id="LIVE EVENT 08">
     <display-name>LIVE EVENT 08</display-name>
-    <display-name>LIVE EVENT 08 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 08 - 6:30pm USAC Turkey Night Grand Prix Ventura</display-name>
   </channel>
   <channel id="LIVE EVENT 09">
     <display-name>LIVE EVENT 09</display-name>
@@ -1524,26 +1524,253 @@
   <programme start="20261127163000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 02">
+  <programme start="20261127040000 +0000" stop="20261127054000 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Cruz v Subkhankulov starts Sat 28 Nov 12:40 AM</desc>
+  </programme>
+  <programme start="20261127054000 +0000" stop="20261127074000 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Cruz v Subkhankulov starts Sat 28 Nov 12:40 AM</desc>
+  </programme>
+  <programme start="20261127074000 +0000" stop="20261127094000 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Cruz v Subkhankulov starts Sat 28 Nov 12:40 AM</desc>
+  </programme>
+  <programme start="20261127094000 +0000" stop="20261127114000 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Cruz v Subkhankulov starts Sat 28 Nov 12:40 AM</desc>
+  </programme>
+  <programme start="20261127114000 +0000" stop="20261127134000 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Cruz v Subkhankulov starts Sat 28 Nov 12:40 AM</desc>
+  </programme>
+  <programme start="20261127134000 +0000" stop="20261127164000 +0000" channel="LIVE EVENT 02">
+    <title lang="en">Cruz v Subkhankulov ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 12:40 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127164000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 03">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127040000 +0000" stop="20261127053000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Odiase v Perez starts Sat 28 Nov 2:30 AM</desc>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 04">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127053000 +0000" stop="20261127073000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Odiase v Perez starts Sat 28 Nov 2:30 AM</desc>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 05">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127073000 +0000" stop="20261127093000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Odiase v Perez starts Sat 28 Nov 2:30 AM</desc>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 06">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127093000 +0000" stop="20261127113000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Odiase v Perez starts Sat 28 Nov 2:30 AM</desc>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127113000 +0000" stop="20261127133000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Odiase v Perez starts Sat 28 Nov 2:30 AM</desc>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 08">
-    <title lang="en">No Event Today</title>
+  <programme start="20261127133000 +0000" stop="20261127153000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Odiase v Perez starts Sat 28 Nov 2:30 AM</desc>
+  </programme>
+  <programme start="20261127153000 +0000" stop="20261127183000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Odiase v Perez ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 2:30 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127183000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127060000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Mix Fight 59 Zakarian v Mohamad starts Sat 28 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127080000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Mix Fight 59 Zakarian v Mohamad starts Sat 28 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127100000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Mix Fight 59 Zakarian v Mohamad starts Sat 28 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127120000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Mix Fight 59 Zakarian v Mohamad starts Sat 28 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127140000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Mix Fight 59 Zakarian v Mohamad starts Sat 28 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261127140000 +0000" stop="20261127160000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Mix Fight 59 Zakarian v Mohamad starts Sat 28 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261127190000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Mix Fight 59 Zakarian v Mohamad ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 3:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127190000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127060000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Cage Warriors 214: Unplugged starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127080000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Cage Warriors 214: Unplugged starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127100000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Cage Warriors 214: Unplugged starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127120000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Cage Warriors 214: Unplugged starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127140000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Cage Warriors 214: Unplugged starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127140000 +0000" stop="20261127160000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Cage Warriors 214: Unplugged starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261127180000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Cage Warriors 214: Unplugged starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127180000 +0000" stop="20261127210000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Cage Warriors 214: Unplugged ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 5:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127210000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127050000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 13 hours</title>
+    <desc lang="en">Thor Mini O's Gatorback starts Sat 28 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261127050000 +0000" stop="20261127070000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Thor Mini O's Gatorback starts Sat 28 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127090000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Thor Mini O's Gatorback starts Sat 28 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127110000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Thor Mini O's Gatorback starts Sat 28 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127130000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Thor Mini O's Gatorback starts Sat 28 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127150000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Thor Mini O's Gatorback starts Sat 28 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261127150000 +0000" stop="20261127170000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Thor Mini O's Gatorback starts Sat 28 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261127170000 +0000" stop="20261127200000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Thor Mini O's Gatorback ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 4:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127200000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127060000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127080000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127100000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127120000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127140000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127140000 +0000" stop="20261127160000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261127180000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">4 Cyl Nationals Cherokee starts Sat 28 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261127180000 +0000" stop="20261127210000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">4 Cyl Nationals Cherokee ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 5:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261127210000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127053000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 20 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127053000 +0000" stop="20261127073000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127073000 +0000" stop="20261127093000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127093000 +0000" stop="20261127113000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127113000 +0000" stop="20261127133000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127133000 +0000" stop="20261127153000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127153000 +0000" stop="20261127173000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127173000 +0000" stop="20261127193000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127193000 +0000" stop="20261127213000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127213000 +0000" stop="20261127233000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sat 28 Nov 10:30 AM</desc>
+  </programme>
+  <programme start="20261127233000 +0000" stop="20261128023000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">USAC Turkey Night Grand Prix Ventura ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 10:30 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128023000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Signing off</title>
   </programme>
   <programme start="20261127040000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 09">
     <title lang="en">No Event Today</title>
