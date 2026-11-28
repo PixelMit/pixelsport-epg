@@ -305,51 +305,51 @@
   </channel>
   <channel id="LIVE EVENT 06">
     <display-name>LIVE EVENT 06</display-name>
-    <display-name>LIVE EVENT 06 - 12pm Thor Mini O's Gatorback</display-name>
+    <display-name>LIVE EVENT 06 - 12pm KOK Fight Night</display-name>
   </channel>
   <channel id="LIVE EVENT 07">
     <display-name>LIVE EVENT 07</display-name>
-    <display-name>LIVE EVENT 07 - 6pm 4 Cyl Nationals Cherokee</display-name>
+    <display-name>LIVE EVENT 07 - 12pm Memphis Wrestling Thanksgiving Little Boogeyman</display-name>
   </channel>
   <channel id="LIVE EVENT 08">
     <display-name>LIVE EVENT 08</display-name>
-    <display-name>LIVE EVENT 08 - 6:30pm USAC Turkey Night Grand Prix Ventura</display-name>
+    <display-name>LIVE EVENT 08 - 1pm Kabayel v Hysa</display-name>
   </channel>
   <channel id="LIVE EVENT 09">
     <display-name>LIVE EVENT 09</display-name>
-    <display-name>LIVE EVENT 09 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 09 - 1/3:30pm Cage Warriors 215</display-name>
   </channel>
   <channel id="LIVE EVENT 10">
     <display-name>LIVE EVENT 10</display-name>
-    <display-name>LIVE EVENT 10 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 10 - 2pm Glory Rivals 6</display-name>
   </channel>
   <channel id="LIVE EVENT 11">
     <display-name>LIVE EVENT 11</display-name>
-    <display-name>LIVE EVENT 11 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 11 - 2pm True Grit Wrestling Test Your Mettle</display-name>
   </channel>
   <channel id="LIVE EVENT 12">
     <display-name>LIVE EVENT 12</display-name>
-    <display-name>LIVE EVENT 12 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 12 - 7pm ACW November Reign</display-name>
   </channel>
   <channel id="LIVE EVENT 13">
     <display-name>LIVE EVENT 13</display-name>
-    <display-name>LIVE EVENT 13 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 13 - 10pm MMA Mexico 10</display-name>
   </channel>
   <channel id="LIVE EVENT 14">
     <display-name>LIVE EVENT 14</display-name>
-    <display-name>LIVE EVENT 14 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 14 - 12pm Thor Mini Os Gatorback</display-name>
   </channel>
   <channel id="LIVE EVENT 15">
     <display-name>LIVE EVENT 15</display-name>
-    <display-name>LIVE EVENT 15 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 15 - 1pm Millbridge Sprints</display-name>
   </channel>
   <channel id="LIVE EVENT 16">
     <display-name>LIVE EVENT 16</display-name>
-    <display-name>LIVE EVENT 16 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 16 - 1pm 4 Cylinder Nationals Cherokee</display-name>
   </channel>
   <channel id="LIVE EVENT 17">
     <display-name>LIVE EVENT 17</display-name>
-    <display-name>LIVE EVENT 17 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 17 - 6:15pm USAC Turkey Night Grand Prix Ventura</display-name>
   </channel>
   <channel id="LIVE EVENT 18">
     <display-name>LIVE EVENT 18</display-name>
@@ -1648,97 +1648,512 @@
   <programme start="20261128210000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 06">
-    <title lang="en">Signing off</title>
+  <programme start="20261128010000 +0000" stop="20261128030000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">KOK Fight Night starts Sun 29 Nov 4:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">4 Cyl Nationals Cherokee ᴸᶦᵛᵉ</title>
-    <desc lang="en">Sat 28 Nov 10:00 AM</desc>
+  <programme start="20261128030000 +0000" stop="20261128050000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">KOK Fight Night starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">KOK Fight Night starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128090000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">KOK Fight Night starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">KOK Fight Night starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128130000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">KOK Fight Night starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128150000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">KOK Fight Night starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">KOK Fight Night starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">KOK Fight Night ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 4:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128020000 +0000" stop="20261128030000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 21 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
+  <programme start="20261128220000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 06">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128030000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Memphis Wrestling Thanksgiving Little Boogeyman starts Sun 29 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261128030000 +0000" stop="20261128050000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 20 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Memphis Wrestling Thanksgiving Little Boogeyman starts Sun 29 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 18 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Memphis Wrestling Thanksgiving Little Boogeyman starts Sun 29 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128090000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 16 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Memphis Wrestling Thanksgiving Little Boogeyman starts Sun 29 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 14 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Memphis Wrestling Thanksgiving Little Boogeyman starts Sun 29 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261128110000 +0000" stop="20261128130000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 12 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Memphis Wrestling Thanksgiving Little Boogeyman starts Sun 29 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261128130000 +0000" stop="20261128150000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 10 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Memphis Wrestling Thanksgiving Little Boogeyman starts Sun 29 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 8 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
-  </programme>
-  <programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 6 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
-  </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 4 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
-  </programme>
-  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="LIVE EVENT 07">
     <title lang="en">Live in 2 hours</title>
-    <desc lang="en">4 Cyl Nationals Cherokee starts Sun 29 Nov 10:00 AM</desc>
+    <desc lang="en">Memphis Wrestling Thanksgiving Little Boogeyman starts Sun 29 Nov 4:00 AM</desc>
   </programme>
-  <programme start="20261128230000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">4 Cyl Nationals Cherokee ᴸᶦᵛᵉ</title>
-    <desc lang="en">Sun 29 Nov 10:00 AM</desc>
+  <programme start="20261128170000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Memphis Wrestling Thanksgiving Little Boogeyman ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 4:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261128023000 +0000" channel="LIVE EVENT 08">
-    <title lang="en">USAC Turkey Night Grand Prix Ventura ᴸᶦᵛᵉ</title>
-    <desc lang="en">Sat 28 Nov 10:30 AM</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20261128023000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 08">
+  <programme start="20261128200000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 07">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 09">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 17 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 10">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 11">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128040000 +0000" stop="20261128060000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 12">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 13">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128080000 +0000" stop="20261128100000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 14">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128100000 +0000" stop="20261128120000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 15">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128120000 +0000" stop="20261128140000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 16">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 17">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Kabayel v Hysa starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Kabayel v Hysa ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 5:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 08">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128023000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 20 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128023000 +0000" stop="20261128043000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128043000 +0000" stop="20261128063000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128063000 +0000" stop="20261128083000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128083000 +0000" stop="20261128103000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128103000 +0000" stop="20261128123000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128123000 +0000" stop="20261128143000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128143000 +0000" stop="20261128163000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128183000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128203000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261128233000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">1/ Cage Warriors 215 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 7:30 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128030000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128050000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128090000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128130000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128150000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Glory Rivals 6 starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Glory Rivals 6 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 6:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 10">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128030000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128050000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128090000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128130000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128150000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">True Grit Wrestling Test Your Mettle starts Sun 29 Nov 6:00 AM</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">True Grit Wrestling Test Your Mettle ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 6:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 11">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 23 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 22 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128060000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 20 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128100000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128120000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128140000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
+  </programme>
+  <programme start="20261129000000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 12">
+    <title lang="en">ACW November Reign ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 11:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128030000 +0000" channel="LIVE EVENT 13">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">MMA Mexico 10 starts Sat 28 Nov 2:00 PM</desc>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128060000 +0000" channel="LIVE EVENT 13">
+    <title lang="en">MMA Mexico 10 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 2:00 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 13">
+    <title lang="en">Next: MMA Mexico 10</title>
+    <desc lang="en">MMA Mexico 10 · Sun 29 Nov 2:00 PM</desc>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128030000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Thor Mini Os Gatorback starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128050000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Thor Mini Os Gatorback starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Thor Mini Os Gatorback starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128090000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Thor Mini Os Gatorback starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Thor Mini Os Gatorback starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128130000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Thor Mini Os Gatorback starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128150000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Thor Mini Os Gatorback starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Thor Mini Os Gatorback starts Sun 29 Nov 4:00 AM</desc>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Thor Mini Os Gatorback ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 4:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 14">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 17 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128060000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128100000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128120000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128140000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Millbridge Sprints starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Millbridge Sprints ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 5:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 15">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 17 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128060000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128100000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128120000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128140000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">4 Cylinder Nationals Cherokee starts Sun 29 Nov 5:00 AM</desc>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">4 Cylinder Nationals Cherokee ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 5:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 16">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128011500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 23 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128011500 +0000" stop="20261128031500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 22 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128031500 +0000" stop="20261128051500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 20 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128051500 +0000" stop="20261128071500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128071500 +0000" stop="20261128091500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128091500 +0000" stop="20261128111500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128111500 +0000" stop="20261128131500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128131500 +0000" stop="20261128151500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128151500 +0000" stop="20261128171500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128171500 +0000" stop="20261128191500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128191500 +0000" stop="20261128211500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128211500 +0000" stop="20261128231500 +0000" channel="LIVE EVENT 17">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
+  </programme>
+  <programme start="20261128231500 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 17">
+    <title lang="en">USAC Turkey Night Grand Prix Ventura ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 10:15 AM</desc>
+    <category lang="en">Live</category>
   </programme>
   <programme start="20261128010000 +0000" stop="20261129010000 +0000" channel="LIVE EVENT 18">
     <title lang="en">No Event Today</title>
