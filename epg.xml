@@ -1085,43 +1085,43 @@
   </channel>
   <channel id="Stan AU 01">
     <display-name>Stan AU 01</display-name>
-    <display-name>Stan AU 01: Italy v Fiji - Nations Championship Final 2026 @ 28 Nov 03:30 AM Sydney</display-name>
+    <display-name>Stan AU 01: Wales v Japan - Nations Championship Final 2026 @ 29 Nov 12:00 AM Sydney</display-name>
   </channel>
   <channel id="Stan AU 02">
     <display-name>Stan AU 02</display-name>
-    <display-name>Stan AU 02: Women's Elite: Ostrava - UCI Cyclo-cross World Cup 2026/27 @ 28 Nov 04:05 AM Sydney</display-name>
+    <display-name>Stan AU 02: Manchester United v Brentford - Premier League Matchweek 12 2026/2027 @ 29 Nov 01:00 AM Sydney</display-name>
   </channel>
   <channel id="Stan AU 03">
     <display-name>Stan AU 03</display-name>
-    <display-name>Stan AU 03: Men's Elite: Ostrava - UCI Cyclo-cross World Cup 2026/27 @ 28 Nov 05:35 AM Sydney</display-name>
+    <display-name>Stan AU 03: Leeds United v Coventry City - Premier League Matchweek 12 2026/2027 @ 29 Nov 01:50 AM Sydney</display-name>
   </channel>
   <channel id="Stan AU 04">
     <display-name>Stan AU 04</display-name>
-    <display-name>Stan AU 04: Ireland v Australia - Nations Championship Final 2026 @ 28 Nov 06:30 AM Sydney</display-name>
+    <display-name>Stan AU 04: England v New Zealand - Nations Championship Final 2026 @ 29 Nov 02:45 AM Sydney</display-name>
   </channel>
   <channel id="Stan AU 05">
     <display-name>Stan AU 05</display-name>
-    <display-name>Stan AU 05: Nottingham Forest v Chelsea - Premier League Matchweek 12 2026/2027 @ 28 Nov 06:30 AM Sydney</display-name>
+    <display-name>Stan AU 05: Ipswich Town v Aston Villa - Premier League Matchweek 12 2026/2027 @ 29 Nov 04:20 AM Sydney</display-name>
   </channel>
   <channel id="Stan AU 06">
     <display-name>Stan AU 06</display-name>
-    <display-name>Stan AU 06: Seoul v Daejeon - K League 2026 @ 28 Nov 03:55 PM Sydney</display-name>
+    <display-name>Stan AU 06: PL Saturday Wrap: Matchweek 12 - Nov 29 @ 29 Nov 07:00 AM Sydney</display-name>
   </channel>
   <channel id="Stan AU 07">
     <display-name>Stan AU 07</display-name>
-    <display-name>Stan AU 07: Kyoto Sanga v Cerezo Osaka - J.League 2026 @ 28 Nov 03:55 PM Sydney</display-name>
+    <display-name>Stan AU 07: Ulsan v Jeonbuk - K League 2026 @ 29 Nov 03:55 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 08">
     <display-name>Stan AU 08</display-name>
-    <display-name>Stan AU 08: Kashiwa Reysol v Sanfrecce Hiroshima - J.League 2026 @ 28 Nov 05:55 PM Sydney</display-name>
+    <display-name>Stan AU 08: Kawasaki Frontale v Gamba Osaka - J.League 2026 @ 29 Nov 04:55 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 09">
     <display-name>Stan AU 09</display-name>
-    <display-name>Stan AU 09: NO EVENT</display-name>
+    <display-name>Stan AU 09: Machida Zelvia v Tokyo Verdy - J.League 2026 @ 29 Nov 05:55 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 10">
     <display-name>Stan AU 10</display-name>
-    <display-name>Stan AU 10: NO EVENT</display-name>
+    <display-name>Stan AU 10: Incheon v Gangwon - K League 2026 @ 29 Nov 06:25 PM Sydney</display-name>
   </channel>
   <channel id="Stan AU 11">
     <display-name>Stan AU 11</display-name>
@@ -2529,35 +2529,289 @@
   <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Paramount+ AU 50">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 01">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128120000 +0000" stop="20261128130000 +0000" channel="Stan AU 01">
+    <title lang="en">Live in 1 hour</title>
+    <desc lang="en">Wales v Japan starts Sun 29 Nov 12:00 AM · Nations Championship Final 2026</desc>
   </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 02">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128130000 +0000" stop="20261128145500 +0000" channel="Stan AU 01">
+    <title lang="en">Wales v Japan ᴸᶦᵛᵉ</title>
+    <desc lang="en">Nations Championship Final 2026 · Sun 29 Nov 12:00 AM</desc>
+    <category lang="en">Live</category>
   </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 03">
-    <title lang="en">No Event Today</title>
-  </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 04">
-    <title lang="en">No Event Today</title>
-  </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 05">
-    <title lang="en">No Event Today</title>
-  </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 06">
+  <programme start="20261128145500 +0000" stop="20261129120000 +0000" channel="Stan AU 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 07">
+  <programme start="20261128120000 +0000" stop="20261128140000 +0000" channel="Stan AU 02">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Manchester United v Brentford starts Sun 29 Nov 1:00 AM · Premier League Matchweek 12 2026/2027</desc>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128155500 +0000" channel="Stan AU 02">
+    <title lang="en">Manchester United v Brentford ᴸᶦᵛᵉ</title>
+    <desc lang="en">Premier League Matchweek 12 2026/2027 · Sun 29 Nov 1:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128155500 +0000" stop="20261129120000 +0000" channel="Stan AU 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 08">
+  <programme start="20261128120000 +0000" stop="20261128125000 +0000" channel="Stan AU 03">
+    <title lang="en">Live in 3 hours</title>
+    <desc lang="en">Leeds United v Coventry City starts Sun 29 Nov 1:50 AM · Premier League Matchweek 12 2026/2027</desc>
+  </programme>
+  <programme start="20261128125000 +0000" stop="20261128145000 +0000" channel="Stan AU 03">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Leeds United v Coventry City starts Sun 29 Nov 1:50 AM · Premier League Matchweek 12 2026/2027</desc>
+  </programme>
+  <programme start="20261128145000 +0000" stop="20261128164500 +0000" channel="Stan AU 03">
+    <title lang="en">Leeds United v Coventry City ᴸᶦᵛᵉ</title>
+    <desc lang="en">Premier League Matchweek 12 2026/2027 · Sun 29 Nov 1:50 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128164500 +0000" stop="20261129120000 +0000" channel="Stan AU 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 09">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128120000 +0000" stop="20261128134500 +0000" channel="Stan AU 04">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">England v New Zealand starts Sun 29 Nov 2:45 AM · Nations Championship Final 2026</desc>
   </programme>
-  <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 10">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128134500 +0000" stop="20261128154500 +0000" channel="Stan AU 04">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">England v New Zealand starts Sun 29 Nov 2:45 AM · Nations Championship Final 2026</desc>
+  </programme>
+  <programme start="20261128154500 +0000" stop="20261128174000 +0000" channel="Stan AU 04">
+    <title lang="en">England v New Zealand ᴸᶦᵛᵉ</title>
+    <desc lang="en">Nations Championship Final 2026 · Sun 29 Nov 2:45 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128174000 +0000" stop="20261129120000 +0000" channel="Stan AU 04">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128132000 +0000" channel="Stan AU 05">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Ipswich Town v Aston Villa starts Sun 29 Nov 4:20 AM · Premier League Matchweek 12 2026/2027</desc>
+  </programme>
+  <programme start="20261128132000 +0000" stop="20261128152000 +0000" channel="Stan AU 05">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Ipswich Town v Aston Villa starts Sun 29 Nov 4:20 AM · Premier League Matchweek 12 2026/2027</desc>
+  </programme>
+  <programme start="20261128152000 +0000" stop="20261128172000 +0000" channel="Stan AU 05">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Ipswich Town v Aston Villa starts Sun 29 Nov 4:20 AM · Premier League Matchweek 12 2026/2027</desc>
+  </programme>
+  <programme start="20261128172000 +0000" stop="20261128191500 +0000" channel="Stan AU 05">
+    <title lang="en">Ipswich Town v Aston Villa ᴸᶦᵛᵉ</title>
+    <desc lang="en">Premier League Matchweek 12 2026/2027 · Sun 29 Nov 4:20 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128191500 +0000" stop="20261129120000 +0000" channel="Stan AU 05">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128140000 +0000" channel="Stan AU 06">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">PL Saturday Wrap: Matchweek 12 starts Sun 29 Nov 7:00 AM · Nov 29</desc>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="Stan AU 06">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">PL Saturday Wrap: Matchweek 12 starts Sun 29 Nov 7:00 AM · Nov 29</desc>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="Stan AU 06">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">PL Saturday Wrap: Matchweek 12 starts Sun 29 Nov 7:00 AM · Nov 29</desc>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128200000 +0000" channel="Stan AU 06">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">PL Saturday Wrap: Matchweek 12 starts Sun 29 Nov 7:00 AM · Nov 29</desc>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128215500 +0000" channel="Stan AU 06">
+    <title lang="en">PL Saturday Wrap: Matchweek 12 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Nov 29 · Sun 29 Nov 7:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128215500 +0000" stop="20261129120000 +0000" channel="Stan AU 06">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128125500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 17 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128125500 +0000" stop="20261128145500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128145500 +0000" stop="20261128165500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128165500 +0000" stop="20261128185500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128185500 +0000" stop="20261128205500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128205500 +0000" stop="20261128225500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128225500 +0000" stop="20261129005500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261129005500 +0000" stop="20261129025500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261129025500 +0000" stop="20261129045500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261129045500 +0000" stop="20261129065000 +0000" channel="Stan AU 07">
+    <title lang="en">Ulsan v Jeonbuk ᴸᶦᵛᵉ</title>
+    <desc lang="en">K League 2026 · Sun 29 Nov 3:55 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129065000 +0000" stop="20261129120000 +0000" channel="Stan AU 07">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128135500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128135500 +0000" stop="20261128155500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128155500 +0000" stop="20261128175500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128175500 +0000" stop="20261128195500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128195500 +0000" stop="20261128215500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128215500 +0000" stop="20261128235500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128235500 +0000" stop="20261129015500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261129015500 +0000" stop="20261129035500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261129035500 +0000" stop="20261129055500 +0000" channel="Stan AU 08">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261129055500 +0000" stop="20261129075000 +0000" channel="Stan AU 08">
+    <title lang="en">Kawasaki Frontale v Gamba Osaka ᴸᶦᵛᵉ</title>
+    <desc lang="en">J.League 2026 · Sun 29 Nov 4:55 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129075000 +0000" stop="20261129120000 +0000" channel="Stan AU 08">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128125500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 19 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128125500 +0000" stop="20261128145500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128145500 +0000" stop="20261128165500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128165500 +0000" stop="20261128185500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128185500 +0000" stop="20261128205500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128205500 +0000" stop="20261128225500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261128225500 +0000" stop="20261129005500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261129005500 +0000" stop="20261129025500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261129025500 +0000" stop="20261129045500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261129045500 +0000" stop="20261129065500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
+  </programme>
+  <programme start="20261129065500 +0000" stop="20261129085000 +0000" channel="Stan AU 09">
+    <title lang="en">Machida Zelvia v Tokyo Verdy ᴸᶦᵛᵉ</title>
+    <desc lang="en">J.League 2026 · Sun 29 Nov 5:55 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129085000 +0000" stop="20261129120000 +0000" channel="Stan AU 09">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128132500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 20 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128132500 +0000" stop="20261128152500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128152500 +0000" stop="20261128172500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128172500 +0000" stop="20261128192500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128192500 +0000" stop="20261128212500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128212500 +0000" stop="20261128232500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261128232500 +0000" stop="20261129012500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261129012500 +0000" stop="20261129032500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261129032500 +0000" stop="20261129052500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261129052500 +0000" stop="20261129072500 +0000" channel="Stan AU 10">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
+  </programme>
+  <programme start="20261129072500 +0000" stop="20261129092000 +0000" channel="Stan AU 10">
+    <title lang="en">Incheon v Gangwon ᴸᶦᵛᵉ</title>
+    <desc lang="en">K League 2026 · Sun 29 Nov 6:25 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129092000 +0000" stop="20261129120000 +0000" channel="Stan AU 10">
+    <title lang="en">Signing off</title>
   </programme>
   <programme start="20261128120000 +0000" stop="20261129120000 +0000" channel="Stan AU 11">
     <title lang="en">No Event Today</title>
