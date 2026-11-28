@@ -1283,227 +1283,218 @@
     <display-name>Stan AU 50</display-name>
     <display-name>Stan AU 50: NO EVENT</display-name>
   </channel>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 01">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 02">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128192500 +0000" channel="EPL 03">
-    <title lang="en">Ipswich v Aston Villa ᴸᶦᵛᵉ</title>
-    <desc lang="en">Sun 29 Nov 4:30 AM</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20261128192500 +0000" stop="20261129190000 +0000" channel="EPL 03">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 04">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 04">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 05">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 05">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 06">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 06">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 07">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 07">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 08">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 08">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 09">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 09">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL 10">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL 10">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPL Goal Rush: Multi View">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPL Goal Rush: Multi View">
     <title lang="en">EPL Goal Rush: Multi View</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 01">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 01">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 02">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 02">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 03">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 03">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 04">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 04">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 05">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 05">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 06">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 06">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 07">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 07">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 08">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 08">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 09">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 09">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="EPLⒷⓟ 10">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="EPLⒷⓟ 10">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 01">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 01">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 02">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 02">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 03">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 03">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 04">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 04">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 05">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 05">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 06">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 06">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 07">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 07">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 08">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 08">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 09">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 09">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 10">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 10">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 11">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 11">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 12">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 12">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 13">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 13">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 14">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 14">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 15">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 15">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 16">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 16">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 17">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 17">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 18">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 18">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 19">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 19">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 20">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 20">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 21">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 21">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 22">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 22">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 23">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 23">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 24">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 24">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 25">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 25">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 26">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 26">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 27">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 27">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 28">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 28">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 29">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 29">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 30">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 30">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 31">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 31">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 32">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 32">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 33">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 33">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 34">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 34">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 35">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 35">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 36">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 36">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 37">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 37">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 38">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 38">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 39">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 39">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 40">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 40">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 41">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 41">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 42">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 42">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 43">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 43">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 44">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 44">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 45">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 45">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 46">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 46">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 47">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 47">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 48">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 48">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 49">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 49">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Kayo AU 50">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Kayo AU 50">
     <title lang="en">No Event Today</title>
-  </programme>
-  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 01">
-    <title lang="en">Live in 3 hours</title>
-    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
   </programme>
   <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 01">
     <title lang="en">Live in 2 hours</title>
@@ -1514,36 +1505,36 @@
     <desc lang="en">Sun 29 Nov 9:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129010000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 01">
+  <programme start="20261129010000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 02">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 02">
     <title lang="en">(SD) WWE Survivor Series War Games</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 03">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 03">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 04">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 05">
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 05">
     <title lang="en">Musas Fight Night 4 Loriga v Cariaco ᴸᶦᵛᵉ</title>
     <desc lang="en">Sun 29 Nov 3:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128210000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 05">
+  <programme start="20261128210000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 06">
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 06">
     <title lang="en">KOK Fight Night ᴸᶦᵛᵉ</title>
     <desc lang="en">Sun 29 Nov 4:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128220000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 06">
+  <programme start="20261128220000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 06">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 07">
-    <title lang="en">Live in 22 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 07">
+    <title lang="en">Live in 21 hours</title>
     <desc lang="en">CANCELLED Memphis Wrestling Thanksgiving Little Boogeyman starts Mon 30 Nov 4:00 AM</desc>
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="LIVE EVENT 07">
@@ -1586,21 +1577,21 @@
     <title lang="en">Live in 2 hours</title>
     <desc lang="en">CANCELLED Memphis Wrestling Thanksgiving Little Boogeyman starts Mon 30 Nov 4:00 AM</desc>
   </programme>
-  <programme start="20261129170000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 07">
+  <programme start="20261129170000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 07">
     <title lang="en">CANCELLED Memphis Wrestling Thanksgiving Little Boogeyman ᴸᶦᵛᵉ</title>
     <desc lang="en">Mon 30 Nov 4:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 08">
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 08">
     <title lang="en">Kabayel v Hysa ᴸᶦᵛᵉ</title>
     <desc lang="en">Sun 29 Nov 5:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128210000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 08">
+  <programme start="20261128210000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 08">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128203000 +0000" channel="LIVE EVENT 09">
-    <title lang="en">Live in 2 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="LIVE EVENT 09">
+    <title lang="en">Live in 1 hour</title>
     <desc lang="en">1/ Cage Warriors 215 starts Sun 29 Nov 7:30 AM</desc>
   </programme>
   <programme start="20261128203000 +0000" stop="20261128233000 +0000" channel="LIVE EVENT 09">
@@ -1608,28 +1599,24 @@
     <desc lang="en">Sun 29 Nov 7:30 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128233000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 09">
+  <programme start="20261128233000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 09">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 10">
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 10">
     <title lang="en">Glory Rivals 6 ᴸᶦᵛᵉ</title>
     <desc lang="en">Sun 29 Nov 6:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128220000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 10">
+  <programme start="20261128220000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 10">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 11">
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 11">
     <title lang="en">True Grit Wrestling Test Your Mettle ᴸᶦᵛᵉ</title>
     <desc lang="en">Sun 29 Nov 6:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128220000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 11">
+  <programme start="20261128220000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 11">
     <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 12">
-    <title lang="en">Live in 5 hours</title>
-    <desc lang="en">ACW November Reign starts Sun 29 Nov 11:00 AM</desc>
   </programme>
   <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 12">
     <title lang="en">Live in 4 hours</title>
@@ -1644,11 +1631,11 @@
     <desc lang="en">Sun 29 Nov 11:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129030000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 12">
+  <programme start="20261129030000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 12">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 13">
-    <title lang="en">Live in 8 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 13">
+    <title lang="en">Live in 7 hours</title>
     <desc lang="en">MMA Mexico 10 starts Sun 29 Nov 2:00 PM</desc>
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="LIVE EVENT 13">
@@ -1668,38 +1655,29 @@
     <desc lang="en">Sun 29 Nov 2:00 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129060000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 13">
+  <programme start="20261129060000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 13">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 14">
-    <title lang="en">Thor Mini Os Gatorback ᴸᶦᵛᵉ</title>
-    <desc lang="en">Sun 29 Nov 4:00 AM</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20261128200000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 14">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 14">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 15">
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 15">
     <title lang="en">Millbridge Sprints ᴸᶦᵛᵉ</title>
     <desc lang="en">Sun 29 Nov 5:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128210000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 15">
+  <programme start="20261128210000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 15">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 16">
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 16">
     <title lang="en">4 Cylinder Nationals Cherokee ᴸᶦᵛᵉ</title>
     <desc lang="en">Sun 29 Nov 5:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128210000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 16">
+  <programme start="20261128210000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 16">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128191500 +0000" channel="LIVE EVENT 17">
-    <title lang="en">Live in 5 hours</title>
-    <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
-  </programme>
-  <programme start="20261128191500 +0000" stop="20261128211500 +0000" channel="LIVE EVENT 17">
+  <programme start="20261128200000 +0000" stop="20261128211500 +0000" channel="LIVE EVENT 17">
     <title lang="en">Live in 4 hours</title>
     <desc lang="en">USAC Turkey Night Grand Prix Ventura starts Sun 29 Nov 10:15 AM</desc>
   </programme>
@@ -1712,71 +1690,67 @@
     <desc lang="en">Sun 29 Nov 10:15 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129021500 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 17">
+  <programme start="20261129021500 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 17">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 18">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 18">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 19">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 19">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 20">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 20">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 21">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 21">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 22">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 22">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 23">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 23">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 24">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 24">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 25">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 25">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 26">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 26">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 27">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 27">
     <title lang="en">UFC 334: Multiview</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 28">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 28">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 29">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 29">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 30">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 30">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 31">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 31">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 32">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 32">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 33">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 33">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 34">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 34">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 35">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 35">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="LIVE EVENT 36">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="LIVE EVENT 36">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128195800 +0000" channel="NBA 01">
-    <title lang="en">Live in 3 hours</title>
-    <desc lang="en">Magic vs. Wizards starts Sun 29 Nov 8:58 AM</desc>
-  </programme>
-  <programme start="20261128195800 +0000" stop="20261128215800 +0000" channel="NBA 01">
+  <programme start="20261128200000 +0000" stop="20261128215800 +0000" channel="NBA 01">
     <title lang="en">Live in 2 hours</title>
     <desc lang="en">Magic vs. Wizards starts Sun 29 Nov 8:58 AM</desc>
   </programme>
@@ -1785,11 +1759,11 @@
     <desc lang="en">Sun 29 Nov 8:58 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129002800 +0000" stop="20261129190000 +0000" channel="NBA 01">
+  <programme start="20261129002800 +0000" stop="20261129200000 +0000" channel="NBA 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128205800 +0000" channel="NBA 02">
-    <title lang="en">Live in 4 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128205800 +0000" channel="NBA 02">
+    <title lang="en">Live in 3 hours</title>
     <desc lang="en">Nets vs. Hornets starts Sun 29 Nov 9:58 AM</desc>
   </programme>
   <programme start="20261128205800 +0000" stop="20261128225800 +0000" channel="NBA 02">
@@ -1801,11 +1775,11 @@
     <desc lang="en">Sun 29 Nov 9:58 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129012800 +0000" stop="20261129190000 +0000" channel="NBA 02">
+  <programme start="20261129012800 +0000" stop="20261129200000 +0000" channel="NBA 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128205800 +0000" channel="NBA 03">
-    <title lang="en">Live in 6 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128205800 +0000" channel="NBA 03">
+    <title lang="en">Live in 5 hours</title>
     <desc lang="en">Pacers vs. Bulls starts Sun 29 Nov 11:58 AM</desc>
   </programme>
   <programme start="20261128205800 +0000" stop="20261128225800 +0000" channel="NBA 03">
@@ -1821,11 +1795,11 @@
     <desc lang="en">Sun 29 Nov 11:58 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129032800 +0000" stop="20261129190000 +0000" channel="NBA 03">
+  <programme start="20261129032800 +0000" stop="20261129200000 +0000" channel="NBA 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128205800 +0000" channel="NBA 04">
-    <title lang="en">Live in 6 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128205800 +0000" channel="NBA 04">
+    <title lang="en">Live in 5 hours</title>
     <desc lang="en">Thunder vs. Bucks starts Sun 29 Nov 11:58 AM</desc>
   </programme>
   <programme start="20261128205800 +0000" stop="20261128225800 +0000" channel="NBA 04">
@@ -1841,14 +1815,10 @@
     <desc lang="en">Sun 29 Nov 11:58 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129032800 +0000" stop="20261129190000 +0000" channel="NBA 04">
+  <programme start="20261129032800 +0000" stop="20261129200000 +0000" channel="NBA 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128192800 +0000" channel="NBA 05">
-    <title lang="en">Live in 7 hours</title>
-    <desc lang="en">76ers vs. Rockets starts Sun 29 Nov 12:28 PM</desc>
-  </programme>
-  <programme start="20261128192800 +0000" stop="20261128212800 +0000" channel="NBA 05">
+  <programme start="20261128200000 +0000" stop="20261128212800 +0000" channel="NBA 05">
     <title lang="en">Live in 6 hours</title>
     <desc lang="en">76ers vs. Rockets starts Sun 29 Nov 12:28 PM</desc>
   </programme>
@@ -1865,57 +1835,53 @@
     <desc lang="en">Sun 29 Nov 12:28 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129035800 +0000" stop="20261129190000 +0000" channel="NBA 05">
+  <programme start="20261129035800 +0000" stop="20261129200000 +0000" channel="NBA 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 06">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 06">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 07">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 07">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 08">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 08">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 09">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 09">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 10">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 10">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 11">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 11">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 12">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 12">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 13">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 13">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 14">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 14">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 15">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 15">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 16">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 16">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 17">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 17">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 18">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 18">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 19">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 19">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA 20">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA 20">
     <title lang="en">No Event Today</title>
-  </programme>
-  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="NBA League Pass 01">
-    <title lang="en">Live in 3 hours</title>
-    <desc lang="en">Wizards vs Magic (Magic In-Arena) starts Sun 29 Nov 9:00 AM</desc>
   </programme>
   <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="NBA League Pass 01">
     <title lang="en">Live in 2 hours</title>
@@ -1926,12 +1892,8 @@
     <desc lang="en">Sun 29 Nov 9:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129003000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 01">
+  <programme start="20261129003000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 01">
     <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="NBA League Pass 02">
-    <title lang="en">Live in 3 hours</title>
-    <desc lang="en">Wizards vs Magic (Wizards In-Arena) starts Sun 29 Nov 9:00 AM</desc>
   </programme>
   <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="NBA League Pass 02">
     <title lang="en">Live in 2 hours</title>
@@ -1942,11 +1904,11 @@
     <desc lang="en">Sun 29 Nov 9:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129003000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 02">
+  <programme start="20261129003000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 03">
-    <title lang="en">Live in 4 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 03">
+    <title lang="en">Live in 3 hours</title>
     <desc lang="en">Hornets vs Nets (Nets In-Arena) starts Sun 29 Nov 10:00 AM</desc>
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 03">
@@ -1958,11 +1920,11 @@
     <desc lang="en">Sun 29 Nov 10:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129013000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 03">
+  <programme start="20261129013000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 04">
-    <title lang="en">Live in 4 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 04">
+    <title lang="en">Live in 3 hours</title>
     <desc lang="en">Hornets vs Nets (Hornets In-Arena) starts Sun 29 Nov 10:00 AM</desc>
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 04">
@@ -1974,11 +1936,11 @@
     <desc lang="en">Sun 29 Nov 10:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129013000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 04">
+  <programme start="20261129013000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 05">
-    <title lang="en">Live in 6 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 05">
+    <title lang="en">Live in 5 hours</title>
     <desc lang="en">Bulls vs Pacers (Pacers In-Arena) starts Sun 29 Nov 12:00 PM</desc>
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 05">
@@ -1994,11 +1956,11 @@
     <desc lang="en">Sun 29 Nov 12:00 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129033000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 05">
+  <programme start="20261129033000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 05">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 06">
-    <title lang="en">Live in 6 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 06">
+    <title lang="en">Live in 5 hours</title>
     <desc lang="en">Bulls vs Pacers (Bulls In-Arena) starts Sun 29 Nov 12:00 PM</desc>
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 06">
@@ -2014,11 +1976,11 @@
     <desc lang="en">Sun 29 Nov 12:00 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129033000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 06">
+  <programme start="20261129033000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 06">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 07">
-    <title lang="en">Live in 6 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 07">
+    <title lang="en">Live in 5 hours</title>
     <desc lang="en">Bucks vs Thunder (Thunder In-Arena) starts Sun 29 Nov 12:00 PM</desc>
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 07">
@@ -2034,11 +1996,11 @@
     <desc lang="en">Sun 29 Nov 12:00 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129033000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 07">
+  <programme start="20261129033000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 07">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 08">
-    <title lang="en">Live in 6 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 08">
+    <title lang="en">Live in 5 hours</title>
     <desc lang="en">Bucks vs Thunder (Bucks In-Arena) starts Sun 29 Nov 12:00 PM</desc>
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 08">
@@ -2054,14 +2016,10 @@
     <desc lang="en">Sun 29 Nov 12:00 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129033000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 08">
+  <programme start="20261129033000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 08">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="NBA League Pass 09">
-    <title lang="en">Live in 7 hours</title>
-    <desc lang="en">Rockets vs 76ers (Rockets In-Arena) starts Sun 29 Nov 12:30 PM</desc>
-  </programme>
-  <programme start="20261128193000 +0000" stop="20261128213000 +0000" channel="NBA League Pass 09">
+  <programme start="20261128200000 +0000" stop="20261128213000 +0000" channel="NBA League Pass 09">
     <title lang="en">Live in 6 hours</title>
     <desc lang="en">Rockets vs 76ers (Rockets In-Arena) starts Sun 29 Nov 12:30 PM</desc>
   </programme>
@@ -2078,14 +2036,10 @@
     <desc lang="en">Sun 29 Nov 12:30 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129040000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 09">
+  <programme start="20261129040000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 09">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="NBA League Pass 10">
-    <title lang="en">Live in 7 hours</title>
-    <desc lang="en">Rockets vs 76ers (76ers In-Arena) starts Sun 29 Nov 12:30 PM</desc>
-  </programme>
-  <programme start="20261128193000 +0000" stop="20261128213000 +0000" channel="NBA League Pass 10">
+  <programme start="20261128200000 +0000" stop="20261128213000 +0000" channel="NBA League Pass 10">
     <title lang="en">Live in 6 hours</title>
     <desc lang="en">Rockets vs 76ers (76ers In-Arena) starts Sun 29 Nov 12:30 PM</desc>
   </programme>
@@ -2102,445 +2056,436 @@
     <desc lang="en">Sun 29 Nov 12:30 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129040000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 10">
+  <programme start="20261129040000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 10">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 11">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 11">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 12">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 12">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 13">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 13">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 14">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 14">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 15">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 15">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 16">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 16">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 17">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 17">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 18">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 18">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 19">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 19">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 20">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 20">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 21">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 21">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 22">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 22">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 23">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 23">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 24">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 24">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 25">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 25">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 26">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 26">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 27">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 27">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 28">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 28">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 29">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 29">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="NBA League Pass 30">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="NBA League Pass 30">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 01">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 01">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 02">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 02">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 03">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 03">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 04">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 04">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 05">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 05">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 06">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 06">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 07">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 07">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 08">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 08">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 09">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 09">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 10">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 10">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 11">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 11">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 12">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 12">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 13">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 13">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 14">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 14">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 15">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 15">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 16">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 16">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 17">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 17">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 18">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 18">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 19">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 19">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 20">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 20">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 21">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 21">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 22">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 22">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 23">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 23">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 24">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 24">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 25">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 25">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 26">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 26">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 27">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 27">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 28">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 28">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 29">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 29">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 30">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 30">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 31">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 31">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 32">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 32">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 33">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 33">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 34">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 34">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 35">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 35">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 36">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 36">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 37">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 37">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 38">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 38">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 39">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 39">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 40">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 40">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 41">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 41">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 42">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 42">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 43">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 43">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 44">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 44">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 45">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 45">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 46">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 46">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 47">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 47">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 48">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 48">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 49">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 49">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 50">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 50">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 51">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 51">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 52">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 52">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 53">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 53">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 54">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 54">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 55">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 55">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 56">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 56">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 57">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 57">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 58">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 58">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 59">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 59">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PL+ 60">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PL+ 60">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PPV EVENT 37">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PPV EVENT 37">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PPV EVENT 38">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PPV EVENT 38">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PPV EVENT 39">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PPV EVENT 39">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="PPV EVENT 40">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="PPV EVENT 40">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 01">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 01">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 02">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 02">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 03">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 03">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 04">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 04">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 05">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 05">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 06">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 06">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 07">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 07">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 08">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 08">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 09">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 09">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 10">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 10">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 11">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 11">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 12">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 12">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 13">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 13">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 14">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 14">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 15">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 15">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 16">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 16">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 17">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 17">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 18">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 18">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 19">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 19">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 20">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 20">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 21">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 21">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 22">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 22">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 23">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 23">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 24">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 24">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 25">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 25">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 26">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 26">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 27">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 27">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 28">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 28">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 29">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 29">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 30">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 30">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 31">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 31">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 32">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 32">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 33">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 33">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 34">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 34">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 35">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 35">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 36">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 36">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 37">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 37">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 38">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 38">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 39">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 39">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 40">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 40">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 41">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 41">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 42">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 42">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 43">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 43">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 44">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 44">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 45">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 45">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 46">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 46">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 47">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 47">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 48">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 48">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 49">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 49">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Paramount+ AU 50">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Paramount+ AU 50">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 01">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 01">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 02">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 02">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 03">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 04">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 04">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128191500 +0000" channel="Stan AU 05">
-    <title lang="en">Ipswich Town v Aston Villa ᴸᶦᵛᵉ</title>
-    <desc lang="en">Premier League Matchweek 12 2026/2027 · Sun 29 Nov 4:20 AM</desc>
-    <category lang="en">Live</category>
-  </programme>
-  <programme start="20261128191500 +0000" stop="20261129190000 +0000" channel="Stan AU 05">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 05">
     <title lang="en">Signing off</title>
-  </programme>
-  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="Stan AU 06">
-    <title lang="en">Live in 1 hour</title>
-    <desc lang="en">PL Saturday Wrap: Matchweek 12 starts Sun 29 Nov 7:00 AM · Nov 29</desc>
   </programme>
   <programme start="20261128200000 +0000" stop="20261128215500 +0000" channel="Stan AU 06">
     <title lang="en">PL Saturday Wrap: Matchweek 12 ᴸᶦᵛᵉ</title>
     <desc lang="en">Nov 29 · Sun 29 Nov 7:00 AM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261128215500 +0000" stop="20261129190000 +0000" channel="Stan AU 06">
+  <programme start="20261128215500 +0000" stop="20261129200000 +0000" channel="Stan AU 06">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128205500 +0000" channel="Stan AU 07">
-    <title lang="en">Live in 10 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128205500 +0000" channel="Stan AU 07">
+    <title lang="en">Live in 9 hours</title>
     <desc lang="en">Ulsan v Jeonbuk starts Sun 29 Nov 3:55 PM · K League 2026</desc>
   </programme>
   <programme start="20261128205500 +0000" stop="20261128225500 +0000" channel="Stan AU 07">
@@ -2564,14 +2509,10 @@
     <desc lang="en">K League 2026 · Sun 29 Nov 3:55 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129065000 +0000" stop="20261129190000 +0000" channel="Stan AU 07">
+  <programme start="20261129065000 +0000" stop="20261129200000 +0000" channel="Stan AU 07">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128195500 +0000" channel="Stan AU 08">
-    <title lang="en">Live in 11 hours</title>
-    <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
-  </programme>
-  <programme start="20261128195500 +0000" stop="20261128215500 +0000" channel="Stan AU 08">
+  <programme start="20261128200000 +0000" stop="20261128215500 +0000" channel="Stan AU 08">
     <title lang="en">Live in 10 hours</title>
     <desc lang="en">Kawasaki Frontale v Gamba Osaka starts Sun 29 Nov 4:55 PM · J.League 2026</desc>
   </programme>
@@ -2596,11 +2537,11 @@
     <desc lang="en">J.League 2026 · Sun 29 Nov 4:55 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129075000 +0000" stop="20261129190000 +0000" channel="Stan AU 08">
+  <programme start="20261129075000 +0000" stop="20261129200000 +0000" channel="Stan AU 08">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128205500 +0000" channel="Stan AU 09">
-    <title lang="en">Live in 12 hours</title>
+  <programme start="20261128200000 +0000" stop="20261128205500 +0000" channel="Stan AU 09">
+    <title lang="en">Live in 11 hours</title>
     <desc lang="en">Machida Zelvia v Tokyo Verdy starts Sun 29 Nov 5:55 PM · J.League 2026</desc>
   </programme>
   <programme start="20261128205500 +0000" stop="20261128225500 +0000" channel="Stan AU 09">
@@ -2628,14 +2569,10 @@
     <desc lang="en">J.League 2026 · Sun 29 Nov 5:55 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129085000 +0000" stop="20261129190000 +0000" channel="Stan AU 09">
+  <programme start="20261129085000 +0000" stop="20261129200000 +0000" channel="Stan AU 09">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261128192500 +0000" channel="Stan AU 10">
-    <title lang="en">Live in 13 hours</title>
-    <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
-  </programme>
-  <programme start="20261128192500 +0000" stop="20261128212500 +0000" channel="Stan AU 10">
+  <programme start="20261128200000 +0000" stop="20261128212500 +0000" channel="Stan AU 10">
     <title lang="en">Live in 12 hours</title>
     <desc lang="en">Incheon v Gangwon starts Sun 29 Nov 6:25 PM · K League 2026</desc>
   </programme>
@@ -2664,127 +2601,127 @@
     <desc lang="en">K League 2026 · Sun 29 Nov 6:25 PM</desc>
     <category lang="en">Live</category>
   </programme>
-  <programme start="20261129092000 +0000" stop="20261129190000 +0000" channel="Stan AU 10">
+  <programme start="20261129092000 +0000" stop="20261129200000 +0000" channel="Stan AU 10">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 11">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 11">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 12">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 12">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 13">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 13">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 14">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 14">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 15">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 15">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 16">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 16">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 17">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 17">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 18">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 18">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 19">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 19">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 20">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 20">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 21">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 21">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 22">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 22">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 23">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 23">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 24">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 24">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 25">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 25">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 26">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 26">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 27">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 27">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 28">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 28">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 29">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 29">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 30">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 30">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 31">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 31">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 32">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 32">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 33">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 33">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 34">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 34">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 35">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 35">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 36">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 36">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 37">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 37">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 38">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 38">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 39">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 39">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 40">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 40">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 41">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 41">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 42">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 42">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 43">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 43">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 44">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 44">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 45">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 45">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 46">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 46">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 47">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 47">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 48">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 48">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 49">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 49">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128190000 +0000" stop="20261129190000 +0000" channel="Stan AU 50">
+  <programme start="20261128200000 +0000" stop="20261129200000 +0000" channel="Stan AU 50">
     <title lang="en">No Event Today</title>
   </programme>
 </tv>
