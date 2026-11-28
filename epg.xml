@@ -285,23 +285,23 @@
   </channel>
   <channel id="LIVE EVENT 01">
     <display-name>LIVE EVENT 01</display-name>
-    <display-name>LIVE EVENT 01 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 01 - 5pm WWE Survivor Series War Games</display-name>
   </channel>
   <channel id="LIVE EVENT 02">
     <display-name>LIVE EVENT 02</display-name>
-    <display-name>LIVE EVENT 02 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 02 - (SD) WWE Survivor Series War Games</display-name>
   </channel>
   <channel id="LIVE EVENT 03">
     <display-name>LIVE EVENT 03</display-name>
-    <display-name>LIVE EVENT 03 - 10:30am Odiase v Perez</display-name>
+    <display-name>LIVE EVENT 03 - 3am Eternal MMA 113</display-name>
   </channel>
   <channel id="LIVE EVENT 04">
     <display-name>LIVE EVENT 04</display-name>
-    <display-name>LIVE EVENT 04 - NO EVENT</display-name>
+    <display-name>LIVE EVENT 04 - 10am Prelims Kabayel v Hysa</display-name>
   </channel>
   <channel id="LIVE EVENT 05">
     <display-name>LIVE EVENT 05</display-name>
-    <display-name>LIVE EVENT 05 - 1pm Cage Warriors 214: Unplugged</display-name>
+    <display-name>LIVE EVENT 05 - 11am Musas Fight Night 4 Loriga v Cariaco</display-name>
   </channel>
   <channel id="LIVE EVENT 06">
     <display-name>LIVE EVENT 06</display-name>
@@ -1496,19 +1496,160 @@
   <programme start="20261128000000 +0000" stop="20261129000000 +0000" channel="Kayo AU 50">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128000000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 01">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128000000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 22 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 20 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128060000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 18 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128100000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128120000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128140000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128200000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">WWE Survivor Series War Games starts Sun 29 Nov 9:00 AM</desc>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 01">
+    <title lang="en">WWE Survivor Series War Games ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 9:00 AM</desc>
+    <category lang="en">Live</category>
   </programme>
   <programme start="20261128000000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 02">
-    <title lang="en">No Event Today</title>
+    <title lang="en">(SD) WWE Survivor Series War Games</title>
   </programme>
-  <programme start="20261128000000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 03">
+  <programme start="20261128000000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Eternal MMA 113 starts Sat 28 Nov 7:00 PM</desc>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Eternal MMA 113 starts Sat 28 Nov 7:00 PM</desc>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128060000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Eternal MMA 113 starts Sat 28 Nov 7:00 PM</desc>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Eternal MMA 113 starts Sat 28 Nov 7:00 PM</desc>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128110000 +0000" channel="LIVE EVENT 03">
+    <title lang="en">Eternal MMA 113 ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sat 28 Nov 7:00 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 03">
     <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128000000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 04">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128000000 +0000" stop="20261128010000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 15 hours</title>
+    <desc lang="en">Prelims Kabayel v Hysa starts Sun 29 Nov 2:00 AM</desc>
   </programme>
-  <programme start="20261128000000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 05">
+  <programme start="20261128010000 +0000" stop="20261128030000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Prelims Kabayel v Hysa starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128050000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Prelims Kabayel v Hysa starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Prelims Kabayel v Hysa starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128090000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Prelims Kabayel v Hysa starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Prelims Kabayel v Hysa starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128130000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Prelims Kabayel v Hysa starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128150000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Prelims Kabayel v Hysa starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128180000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Prelims Kabayel v Hysa ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 2:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 04">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128000000 +0000" stop="20261128020000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 16 hours</title>
+    <desc lang="en">Musas Fight Night 4 Loriga v Cariaco starts Sun 29 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 14 hours</title>
+    <desc lang="en">Musas Fight Night 4 Loriga v Cariaco starts Sun 29 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128060000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 12 hours</title>
+    <desc lang="en">Musas Fight Night 4 Loriga v Cariaco starts Sun 29 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 10 hours</title>
+    <desc lang="en">Musas Fight Night 4 Loriga v Cariaco starts Sun 29 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128100000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Musas Fight Night 4 Loriga v Cariaco starts Sun 29 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128120000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Musas Fight Night 4 Loriga v Cariaco starts Sun 29 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128140000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Musas Fight Night 4 Loriga v Cariaco starts Sun 29 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Musas Fight Night 4 Loriga v Cariaco starts Sun 29 Nov 3:00 AM</desc>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128210000 +0000" channel="LIVE EVENT 05">
+    <title lang="en">Musas Fight Night 4 Loriga v Cariaco ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 3:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 05">
     <title lang="en">Signing off</title>
   </programme>
   <programme start="20261128000000 +0000" stop="20261129000000 +0000" channel="LIVE EVENT 06">
