@@ -2,15 +2,15 @@
 <tv generator-info-name="PixelSport">
   <channel id="EPL 01">
     <display-name>EPL 01</display-name>
-    <display-name>EPL01: Notts Forest 20:00 Chelsea 27/11</display-name>
+    <display-name>EPL01: Leeds 15:00 Coventry 28/11</display-name>
   </channel>
   <channel id="EPL 02">
     <display-name>EPL 02</display-name>
-    <display-name>EPL02:</display-name>
+    <display-name>EPL02: Man Utd 15:00 Brentford 28/11</display-name>
   </channel>
   <channel id="EPL 03">
     <display-name>EPL 03</display-name>
-    <display-name>EPL03:</display-name>
+    <display-name>EPL03: Ipswich 17:30 Aston Villa 28/11</display-name>
   </channel>
   <channel id="EPL 04">
     <display-name>EPL 04</display-name>
@@ -1283,14 +1283,73 @@
     <display-name>Stan AU 50</display-name>
     <display-name>Stan AU 50: NO EVENT</display-name>
   </channel>
-  <programme start="20261128090000 +0000" stop="20261129090000 +0000" channel="EPL 01">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="EPL 01">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Leeds v Coventry starts Sun 29 Nov 2:00 AM</desc>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261129090000 +0000" channel="EPL 02">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128110000 +0000" stop="20261128130000 +0000" channel="EPL 01">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Leeds v Coventry starts Sun 29 Nov 2:00 AM</desc>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261129090000 +0000" channel="EPL 03">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128130000 +0000" stop="20261128150000 +0000" channel="EPL 01">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Leeds v Coventry starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128165500 +0000" channel="EPL 01">
+    <title lang="en">Leeds v Coventry ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 2:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128165500 +0000" stop="20261129090000 +0000" channel="EPL 01">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="EPL 02">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Man Utd v Brentford starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128130000 +0000" channel="EPL 02">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Man Utd v Brentford starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128150000 +0000" channel="EPL 02">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Man Utd v Brentford starts Sun 29 Nov 2:00 AM</desc>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128165500 +0000" channel="EPL 02">
+    <title lang="en">Man Utd v Brentford ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 2:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128165500 +0000" stop="20261129090000 +0000" channel="EPL 02">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="EPL 03">
+    <title lang="en">Live in 9 hours</title>
+    <desc lang="en">Ipswich v Aston Villa starts Sun 29 Nov 4:30 AM</desc>
+  </programme>
+  <programme start="20261128093000 +0000" stop="20261128113000 +0000" channel="EPL 03">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Ipswich v Aston Villa starts Sun 29 Nov 4:30 AM</desc>
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128133000 +0000" channel="EPL 03">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Ipswich v Aston Villa starts Sun 29 Nov 4:30 AM</desc>
+  </programme>
+  <programme start="20261128133000 +0000" stop="20261128153000 +0000" channel="EPL 03">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Ipswich v Aston Villa starts Sun 29 Nov 4:30 AM</desc>
+  </programme>
+  <programme start="20261128153000 +0000" stop="20261128173000 +0000" channel="EPL 03">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Ipswich v Aston Villa starts Sun 29 Nov 4:30 AM</desc>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128192500 +0000" channel="EPL 03">
+    <title lang="en">Ipswich v Aston Villa ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 4:30 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261128192500 +0000" stop="20261129090000 +0000" channel="EPL 03">
+    <title lang="en">Signing off</title>
   </programme>
   <programme start="20261128090000 +0000" stop="20261129090000 +0000" channel="EPL 04">
     <title lang="en">No Event Today</title>
