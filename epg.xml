@@ -509,43 +509,43 @@
   </channel>
   <channel id="NBA League Pass 01">
     <display-name>NBA League Pass 01</display-name>
-    <display-name>NBA League Pass 01: NO EVENT</display-name>
+    <display-name>NBA League Pass 01: Wizards vs Magic (Magic In-Arena) @ 28 Nov 05:00 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 02">
     <display-name>NBA League Pass 02</display-name>
-    <display-name>NBA League Pass 02: NO EVENT</display-name>
+    <display-name>NBA League Pass 02: Wizards vs Magic (Wizards In-Arena) @ 28 Nov 05:00 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 03">
     <display-name>NBA League Pass 03</display-name>
-    <display-name>NBA League Pass 03: NO EVENT</display-name>
+    <display-name>NBA League Pass 03: Hornets vs Nets (Nets In-Arena) @ 28 Nov 06:00 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 04">
     <display-name>NBA League Pass 04</display-name>
-    <display-name>NBA League Pass 04: NO EVENT</display-name>
+    <display-name>NBA League Pass 04: Hornets vs Nets (Hornets In-Arena) @ 28 Nov 06:00 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 05">
     <display-name>NBA League Pass 05</display-name>
-    <display-name>NBA League Pass 05: NO EVENT</display-name>
+    <display-name>NBA League Pass 05: Bulls vs Pacers (Pacers In-Arena) @ 28 Nov 08:00 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 06">
     <display-name>NBA League Pass 06</display-name>
-    <display-name>NBA League Pass 06: NO EVENT</display-name>
+    <display-name>NBA League Pass 06: Bulls vs Pacers (Bulls In-Arena) @ 28 Nov 08:00 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 07">
     <display-name>NBA League Pass 07</display-name>
-    <display-name>NBA League Pass 07: NO EVENT</display-name>
+    <display-name>NBA League Pass 07: Bucks vs Thunder (Thunder In-Arena) @ 28 Nov 08:00 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 08">
     <display-name>NBA League Pass 08</display-name>
-    <display-name>NBA League Pass 08: NO EVENT</display-name>
+    <display-name>NBA League Pass 08: Bucks vs Thunder (Bucks In-Arena) @ 28 Nov 08:00 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 09">
     <display-name>NBA League Pass 09</display-name>
-    <display-name>NBA League Pass 09: NO EVENT</display-name>
+    <display-name>NBA League Pass 09: Rockets vs 76ers (Rockets In-Arena) @ 28 Nov 08:30 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 10">
     <display-name>NBA League Pass 10</display-name>
-    <display-name>NBA League Pass 10: NO EVENT</display-name>
+    <display-name>NBA League Pass 10: Rockets vs 76ers (76ers In-Arena) @ 28 Nov 08:30 PM ET</display-name>
   </channel>
   <channel id="NBA League Pass 11">
     <display-name>NBA League Pass 11</display-name>
@@ -1900,35 +1900,221 @@
   <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA 20">
     <title lang="en">No Event Today</title>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 01">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128180000 +0000" stop="20261128200000 +0000" channel="NBA League Pass 01">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Wizards vs Magic (Magic In-Arena) starts Sun 29 Nov 9:00 AM</desc>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 02">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="NBA League Pass 01">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Wizards vs Magic (Magic In-Arena) starts Sun 29 Nov 9:00 AM</desc>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 03">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128220000 +0000" stop="20261129003000 +0000" channel="NBA League Pass 01">
+    <title lang="en">Wizards vs Magic (Magic In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 9:00 AM</desc>
+    <category lang="en">Live</category>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 04">
-    <title lang="en">No Event Today</title>
+  <programme start="20261129003000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 01">
+    <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 05">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128180000 +0000" stop="20261128200000 +0000" channel="NBA League Pass 02">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Wizards vs Magic (Wizards In-Arena) starts Sun 29 Nov 9:00 AM</desc>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 06">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="NBA League Pass 02">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Wizards vs Magic (Wizards In-Arena) starts Sun 29 Nov 9:00 AM</desc>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 07">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128220000 +0000" stop="20261129003000 +0000" channel="NBA League Pass 02">
+    <title lang="en">Wizards vs Magic (Wizards In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 9:00 AM</desc>
+    <category lang="en">Live</category>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 08">
-    <title lang="en">No Event Today</title>
+  <programme start="20261129003000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 02">
+    <title lang="en">Signing off</title>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 09">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="NBA League Pass 03">
+    <title lang="en">Live in 5 hours</title>
+    <desc lang="en">Hornets vs Nets (Nets In-Arena) starts Sun 29 Nov 10:00 AM</desc>
   </programme>
-  <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 10">
-    <title lang="en">No Event Today</title>
+  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 03">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Hornets vs Nets (Nets In-Arena) starts Sun 29 Nov 10:00 AM</desc>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 03">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Hornets vs Nets (Nets In-Arena) starts Sun 29 Nov 10:00 AM</desc>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129013000 +0000" channel="NBA League Pass 03">
+    <title lang="en">Hornets vs Nets (Nets In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 10:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129013000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 03">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="NBA League Pass 04">
+    <title lang="en">Live in 5 hours</title>
+    <desc lang="en">Hornets vs Nets (Hornets In-Arena) starts Sun 29 Nov 10:00 AM</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 04">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Hornets vs Nets (Hornets In-Arena) starts Sun 29 Nov 10:00 AM</desc>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 04">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Hornets vs Nets (Hornets In-Arena) starts Sun 29 Nov 10:00 AM</desc>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129013000 +0000" channel="NBA League Pass 04">
+    <title lang="en">Hornets vs Nets (Hornets In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 10:00 AM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129013000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 04">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="NBA League Pass 05">
+    <title lang="en">Live in 7 hours</title>
+    <desc lang="en">Bulls vs Pacers (Pacers In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 05">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Bulls vs Pacers (Pacers In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 05">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Bulls vs Pacers (Pacers In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129010000 +0000" channel="NBA League Pass 05">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Bulls vs Pacers (Pacers In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261129010000 +0000" stop="20261129033000 +0000" channel="NBA League Pass 05">
+    <title lang="en">Bulls vs Pacers (Pacers In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 12:00 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129033000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 05">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="NBA League Pass 06">
+    <title lang="en">Live in 7 hours</title>
+    <desc lang="en">Bulls vs Pacers (Bulls In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 06">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Bulls vs Pacers (Bulls In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 06">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Bulls vs Pacers (Bulls In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129010000 +0000" channel="NBA League Pass 06">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Bulls vs Pacers (Bulls In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261129010000 +0000" stop="20261129033000 +0000" channel="NBA League Pass 06">
+    <title lang="en">Bulls vs Pacers (Bulls In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 12:00 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129033000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 06">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="NBA League Pass 07">
+    <title lang="en">Live in 7 hours</title>
+    <desc lang="en">Bucks vs Thunder (Thunder In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 07">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Bucks vs Thunder (Thunder In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 07">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Bucks vs Thunder (Thunder In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129010000 +0000" channel="NBA League Pass 07">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Bucks vs Thunder (Thunder In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261129010000 +0000" stop="20261129033000 +0000" channel="NBA League Pass 07">
+    <title lang="en">Bucks vs Thunder (Thunder In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 12:00 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129033000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 07">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="NBA League Pass 08">
+    <title lang="en">Live in 7 hours</title>
+    <desc lang="en">Bucks vs Thunder (Bucks In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="NBA League Pass 08">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Bucks vs Thunder (Bucks In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="NBA League Pass 08">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Bucks vs Thunder (Bucks In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129010000 +0000" channel="NBA League Pass 08">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Bucks vs Thunder (Bucks In-Arena) starts Sun 29 Nov 12:00 PM</desc>
+  </programme>
+  <programme start="20261129010000 +0000" stop="20261129033000 +0000" channel="NBA League Pass 08">
+    <title lang="en">Bucks vs Thunder (Bucks In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 12:00 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129033000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 08">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128193000 +0000" channel="NBA League Pass 09">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Rockets vs 76ers (Rockets In-Arena) starts Sun 29 Nov 12:30 PM</desc>
+  </programme>
+  <programme start="20261128193000 +0000" stop="20261128213000 +0000" channel="NBA League Pass 09">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Rockets vs 76ers (Rockets In-Arena) starts Sun 29 Nov 12:30 PM</desc>
+  </programme>
+  <programme start="20261128213000 +0000" stop="20261128233000 +0000" channel="NBA League Pass 09">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Rockets vs 76ers (Rockets In-Arena) starts Sun 29 Nov 12:30 PM</desc>
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129013000 +0000" channel="NBA League Pass 09">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Rockets vs 76ers (Rockets In-Arena) starts Sun 29 Nov 12:30 PM</desc>
+  </programme>
+  <programme start="20261129013000 +0000" stop="20261129040000 +0000" channel="NBA League Pass 09">
+    <title lang="en">Rockets vs 76ers (Rockets In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 12:30 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129040000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 09">
+    <title lang="en">Signing off</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128193000 +0000" channel="NBA League Pass 10">
+    <title lang="en">Live in 8 hours</title>
+    <desc lang="en">Rockets vs 76ers (76ers In-Arena) starts Sun 29 Nov 12:30 PM</desc>
+  </programme>
+  <programme start="20261128193000 +0000" stop="20261128213000 +0000" channel="NBA League Pass 10">
+    <title lang="en">Live in 6 hours</title>
+    <desc lang="en">Rockets vs 76ers (76ers In-Arena) starts Sun 29 Nov 12:30 PM</desc>
+  </programme>
+  <programme start="20261128213000 +0000" stop="20261128233000 +0000" channel="NBA League Pass 10">
+    <title lang="en">Live in 4 hours</title>
+    <desc lang="en">Rockets vs 76ers (76ers In-Arena) starts Sun 29 Nov 12:30 PM</desc>
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129013000 +0000" channel="NBA League Pass 10">
+    <title lang="en">Live in 2 hours</title>
+    <desc lang="en">Rockets vs 76ers (76ers In-Arena) starts Sun 29 Nov 12:30 PM</desc>
+  </programme>
+  <programme start="20261129013000 +0000" stop="20261129040000 +0000" channel="NBA League Pass 10">
+    <title lang="en">Rockets vs 76ers (76ers In-Arena) ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sun 29 Nov 12:30 PM</desc>
+    <category lang="en">Live</category>
+  </programme>
+  <programme start="20261129040000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 10">
+    <title lang="en">Signing off</title>
   </programme>
   <programme start="20261128180000 +0000" stop="20261129180000 +0000" channel="NBA League Pass 11">
     <title lang="en">No Event Today</title>
